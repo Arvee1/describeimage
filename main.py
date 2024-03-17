@@ -1,8 +1,5 @@
 import streamlit as st
 import replicate
-# import os
-
-# os.environ["REPLICATE_API_TOKEN"] = "apikey"
 
 # Sidebar to clear chat history
 def clear_chat_history():
@@ -20,7 +17,6 @@ def generate_llava_response(prompt_input):
             string_dialogue += "Assistant: " + dict_message["content"] + "\\n\\n"
     output = replicate.run(llm,
                            input={"image": uploaded_file, "prompt": prompt})
-    # return output today?"}]
     return output
 
 st.set_page_config(page_title="🦙💬 Llava 2 Chatbot")
@@ -34,7 +30,7 @@ with (st.sidebar):
     top_p = st.sidebar.slider('top_p', min_value=0.01, max_value=1.0, value=0.9, step=0.01)
     max_length = st.sidebar.slider('max_length', min_value=64, max_value=4096, value=512, step=8)
 
-    st.markdown('📖 Learn how to build a llava chatbot [blog](#link-to-blog)!')
+    st.markdown('📖 Find out what is in the image you uploaded!')
     uploaded_file = st.file_uploader("Upload an image", type=["jpg", "png", "jpeg"])
 
 st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
