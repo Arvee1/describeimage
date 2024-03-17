@@ -19,7 +19,7 @@ def generate_llava_response(prompt_input):
                            input={"image": uploaded_file, "prompt": prompt})
     return output
 
-st.set_page_config(page_title="🦙💬 Llava 2 Chatbot")
+st.set_page_config(page_title="🦙💬 Wazzup!!! Enter the image you want this Llava 2 Chatbot to describe.")
 with (st.sidebar):
     st.title('🦙💬 Llava Chatbot')
     selected_model = st.sidebar.selectbox('Choose a llava model', ['llava-13b'], key='selected_model')
