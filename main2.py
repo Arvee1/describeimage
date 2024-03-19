@@ -17,16 +17,16 @@ from langchain.agents import AgentExecutor
 from langchain_community.tools.tavily_search import TavilySearchResults
 import os
 from langchain.memory import ConversationBufferMemory
-from langchain_community.utilities import GoogleSearchAPIWrapper
+# from langchain_community.utilities import GoogleSearchAPIWrapper
 from langchain_core.tools import Tool
 
-search = GoogleSearchAPIWrapper()
+# search = GoogleSearchAPIWrapper()
 
-search_tool = Tool(
-    name="google_search",
-    description="Search Google for recent results.",
-    func=search.run,
-)
+# search_tool = Tool(
+    # name="google_search",
+    # description="Search Google for recent results.",
+    # func=search.run,
+# )
 
 @st.cache_resource
 def create_vector():
@@ -55,7 +55,8 @@ retriever_tool = create_retriever_tool(
 
 print("Vector Created.")
 
-tools = [retriever_tool, search_tool]
+# tools = [retriever_tool, search_tool]
+tools = [retriever_tool]
 
 # Get the prompt to use - you can modify this!
 prompt = hub.pull("hwchase17/openai-functions-agent")
