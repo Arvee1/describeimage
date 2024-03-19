@@ -10,7 +10,6 @@ from langchain_community.embeddings.sentence_transformer import (
     SentenceTransformerEmbeddings,
 )
 from langchain.tools.retriever import create_retriever_tool
-# from langchain_community.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
 from langchain import hub
 from langchain.agents import create_openai_functions_agent
@@ -55,7 +54,7 @@ retriever_tool = create_retriever_tool(
 )
 
 print("Vector Created.")
-'''
+
 tools = [retriever_tool, search_tool]
 
 # Get the prompt to use - you can modify this!
@@ -144,4 +143,3 @@ if st.button('Send'):
     })
     # response = str(response)
     st.write(response["output"])
-'''
