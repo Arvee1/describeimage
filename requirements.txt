@@ -1,2 +1,8 @@
 streamlit
 replicate
+langchain_community
+langchain
+langchain_openai
+langchain_core
+pysqlite3-binary
+sentence_transformers
