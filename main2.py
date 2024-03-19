@@ -55,7 +55,7 @@ retriever_tool = create_retriever_tool(
 )
 
 print("Vector Created.")
-
+'''
 tools = [retriever_tool, search_tool]
 
 # Get the prompt to use - you can modify this!
@@ -144,3 +144,4 @@ if st.button('Send'):
     })
     # response = str(response)
     st.write(response["output"])
+'''
