@@ -133,7 +133,8 @@ if st.button('Send'):
         result_string += text
 
     result_string = ("Check the FSC Audit Criteria Guidelines for non conformance based on this "
-                     "text and identify the Part number and Division number in the Bill relating to "
+                     "text and identify the WHS AUDIT CRITERIA, HAZARD AUDIT CRITERIA and "
+                     "FOCUS POINT AUDIT CRITERIA relating to "
                      "non conformance: ") + result_string
     # st.write("Result String: " + result_string)
 
