@@ -137,7 +137,7 @@ if st.button('Send'):
 
     result_string = ("Check the Model Work Health and Safety Bill for non conformance based on this "
                      "text and identify the Part, Division and "
-                     "Subdivision relating to "
+                     "Subdivision relating to work health and safety "
                      "non conformance: ") + result_string
 
     chat_history = memory.buffer_as_messages
