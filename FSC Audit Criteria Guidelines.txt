@@ -1,0 +1,2315 @@
+ 
+ 
+ 
+ 
+ 
+ 
+FSC Audit Criteria 
+Guidelines:  
+The FSC Audit Criteria Explained
+   
+ ISBN  
+978-1-76028 -147-2 [PDF]  
+978-1-76028 -148-9 [DOCX]  
+ 
+With the exception of the Commonwealth Coat of Arms, the Department’s logo, any material 
+protected by a trade mark and where otherwise noted all material presented in this document is 
+provided under a Creative Co mmons Attribution 3.0 Australia  
+(http://creativecommons.org/licenses/by/3.0/au/ ) licence.  
+The details of the relevant licence conditions are available on the Creative Commons website 
+(accessible using the links provided) as is the full legal code for the CC BY 3.0 AU licence  
+(http://creativecommons.org/licenses/by/3.0/au/legalcode ).  
+The document must be attributed as the  FSC Audit Criteria Guidelines . 
+Version 1. 4 Last Updated  27 October 2021
+The FSC Audit Criteria Guidelines  
+3 Message from the Federal Safety Commissioner  
+In January 2015, a number of  important changes were made to the Australian Government Building 
+and Construction Work Health and Safety Accreditation Scheme. The improvements to the Scheme 
+are the result of a thorough review and consultation process during 2014. An advisory panel of a ll 
+key stakeholders guided the review. The government's objectives were to streamline and modernise 
+the scheme while not reducing the safety standards required for accreditation.   
+While there has been no reduction in the standards required to become accred ited, these 
+improvements will reduce red tape and the compliance burden for building companies that are 
+already accredited as well as encouraging more companies to become accredited. This will broaden 
+the safety benefits across the industry and improve com petitiveness in the market for 
+Commonwealth Government funded construction work. The changes are about increasing support 
+and guidance, streamlining the application processes, reducing unnecessary barriers to entry and 
+moving to a more targeted compliance model that will better direct resources to those companies 
+most requiring it.  
+The Scheme is recognised by stakeholders as setting the highest safety standards in Australia and 
+there was significant evidence identified in the review to indicate its effecti veness in improving 
+safety for individual companies and the industry as a whole. International companies report that it 
+reflects global best practice. As well as the terrible personal cost, it is estimated that injuries and 
+fatalities in the building indus try have an economic cost of around $6 billion per year. A serious 
+workplace accident can have an untold financial and human cost on a building company. The 
+Scheme’s best practice, ‘before the event’ approach minimises the risk of safety incidents and 
+legislative breaches occurring.   
+A key message coming from the 2014 review was the importance of plain English guidance for the 
+audit criteria. A number of submissions to the review sought greater clarity of the audit criteria. A 
+number of submissions also saw  value in guidance that would assist with consistency of 
+interpretation of the criteria.  
+The attached, plain English FSC Audit Criteria Guidelines outlines the scope of each criterion, 
+provides examples of possible evidence that will and, perhaps most importantly, that won’t, meet 
+the criteria. I’m confident this will respond to the demand for documentation that makes it easier to 
+understand the audit criteria and their application. There will be on -going consultation and 
+improvements to the Guidelines in light of feedback and experience.  
+New applicants to the Scheme and those accredited companies seeking reaccreditation will have 
+access to an on -line application form that includes the information to be found in these FSC Audit 
+Criteria Guidelines. Compa nies preparing for their regular audits will find the information contained 
+within the Guidelines a useful reminder in advance of their audit.   
+The FSC Audit Criteria Guidelines have been developed in consultation with company 
+representatives, industry sta keholders and Federal Safety Officers.  I thank them for their input.   The FSC Audit Criteria Guidelines  
+4 I take this opportunity to encourage your feedback on your experience of using the FSC Audit 
+Criteria Guidelines. If you would like to provide feedback on the Guidelines or would like fu rther 
+assistance in preparing for audits, please email ofsc@employment.gov.au * or phone the assist line 
+on 1800 652 500.  Further information and fact sheets on the Scheme can be found at 
+www.fsc.gov.au   
+ 
+Alan Edwards  
+Federal Safety Commissioner  
+April 2015  
+ 
+*ofsc@ dewr.gov.au  from August 2022  onwards  
+  The FSC Audit Criteria Guidelines  
+5 Table of Contents  
+Message from  the Federal Safety Commissioner  ................................ ................................ ...................  3 
+Table of Contents  ................................ ................................ ................................ ................................ .... 5 
+What are the OFSC Audit Criteria Guidelines?  ................................ ................................ .......................  7 
+How will the Guidelines assist me?  ................................ ................................ ................................ .........  7 
+The audit process  ................................ ................................ ................................ ................................ .... 7 
+FSC Audit Criteria  ................................ ................................ ................................ ................................ .... 8 
+WHS AUDIT CRITERIA  ................................ ................................ ................................ ..............................  9 
+WH3 Legal Requir ement  ................................ ................................ ................................ .....................  9 
+WH12 Hazard Identification Risk Assessment and Control (HIRAC)  ................................ .................  11 
+WH13 Emergency Preparedness and Response  ................................ ................................ ...............  14 
+WH14 Health Surveillan ce and Exposure Monitoring  ................................ ................................ ...... 20 
+WH15 Incident Investigation and Corrective Action  ................................ ................................ ........  22 
+WH17 Health & Safety Management System Audit  ................................ ................................ .........  24 
+FOCUS POINT AUDIT CRITERIA  ................................ ................................ ................................ ..............  26 
+FP1 Senior Management Commitment  ................................ ................................ ............................  26 
+FP2 Integration of Design Issues into the Risk Management Process  ................................ ..............  28 
+FP3 Whole of Project Consultation  ................................ ................................ ................................ ... 29 
+FP4 Management of Subcontractor WHS  ................................ ................................ .........................  31 
+FP5 Project Performance Measurement  ................................ ................................ ..........................  34 
+FP6 Training Arrangements  ................................ ................................ ................................ ..............  36 
+HAZARD AUDIT CRITERIA  ................................ ................................ ................................ ......................  39 
+H1 Working at Heights  ................................ ................................ ................................ ......................  39 
+H2 Telecommunication Towers  ................................ ................................ ................................ ........  43 
+H3 Demolition  ................................ ................................ ................................ ................................ ... 46 
+H4 Asbestos ................................ ................................ ................................ ................................ .......  50 
+H5 Structural Alterations/Temporary Support Structures  ................................ ................................  53 
+H6 Confined Space  ................................ ................................ ................................ ............................  57 
+H7 Excavation  ................................ ................................ ................................ ................................ .... 60 
+H8 Tunnels  ................................ ................................ ................................ ................................ ........  64 
+H9 Explosives  ................................ ................................ ................................ ................................ .... 68 
+H10 Pressurised Gas ................................ ................................ ................................ ..........................  71 The FSC Audit Criteria Guidelines  
+6 H11 Chemical, Fuel or Refrigerant Lines  ................................ ................................ ...........................  73 
+H12 Electrical  ................................ ................................ ................................ ................................ .... 75 
+H13 Contaminated / Flammable Atmosphere  ................................ ................................ .............  79 
+H14 Tilt -up / Precast Concrete  ................................ ................................ ................................ ..........  83 
+H15 Traffic  ................................ ................................ ................................ ................................ .... 86 
+H16 Mobile Plant  ................................ ................................ ................................ ..........................  88 
+H17 Artificial Extremes of Temperature  ................................ ................................ .......................  93 
+H18 Diving  ................................ ................................ ................................ ................................ .... 95 
+H19 Construction Work In, Over or Adjacent to Water / Liquids Where Risk of Drowning  ........  97 
+GLOSSARY OF COMMONLY USED TERMS  ................................ ................................ ...........................  100 The FSC Audit Criteria Guidelines  
+7 What are the OFSC Audit Criteria Guide lines ? 
+The OFSC Audit Criteria Guide lines (Guidelines)  will assist companies to complete their application 
+for accreditation or reaccreditation and in preparing for audits.  
+ 
+How will the Guidelines  assist me?  
+The Guide lines  explain the intent behind each of the Scheme criteria. It also provides ex amples of 
+the evidence that you can provide to Federal Safety Officers to demonstrate compliance with 
+Scheme criteria.  
+ 
+Importantly, it also provides Notes identifying what won’t  satisfy Scheme criteria.  This information 
+can be used by companies to assess  whether their documentation addresses the OFSC Audit criteria.  
+ 
+Explanation of descriptors  
+Scope  • A description of the intent behind the criterion, to provide further direction to 
+assist with interpretation of the criterion.  
+Possible 
+evidence  • Examples of possible sources of evidence that could be used to achieve 
+conformance with the criterion.   
+Notes  • Examples of possible sources of evidence that will not meet the criterion.  
+ 
+A Glossary of Commonly Used terms is available at Appendix A to this Guide.  
+ 
+The documents, procedures and processes described below are provided as guidance for companies.   
+The list is neither prescriptive nor exhaustive.  Companies do not need to have everything on the list 
+in place, and may also have other means by w hich the criteria can be adequately addressed.  
+ 
+The audit process  
+Decisions on what audit criteria are to be verified at an on -site audit will be made by the Office of 
+the Federal Safety Commissioner (OFSC) in the first instance and will be determined by a  number of 
+factors including works underway on the project site and prior on -site audit results.  
+The emphasis is for companies to identify hazards, assess risks to health and safety, and develop and 
+implement control measures which use the ‘ hierarchy of co ntrol ’ method to eliminate hazards from 
+the workplace or isolate people from the hazard. Where this is not possible, work activities should 
+be planned and controlled through company processes to the extent necessary to prevent injury and 
+illness.  
+  The FSC Audit Criteria Guidelines  
+8 FSC Aud it Criteria  
+WHS Criteria  
+WH3 Legal Requirement                                                                                                         
+WH12 Hazard Identification Risk Assessment and Control (HIRAC)                                  
+WH13 Emergency Preparedness and Response                                                                    
+WH14 Health Surveillance and Exposure Monitoring                                                          
+WH15 Incident Investigation and Correcti ve Action                                                            
+WH17 Health & Safety Management System Audit                                                             
+ 
+Focus Point Criteria  
+FP1 Senior Management Commitment                                                                              
+FP2 Integration of Design Issues into the Risk Management Process                           
+FP3 Whole of Project Consultation                                                                                      
+FP4 Management of Subcontractor WHS                                                                          
+FP5 Project Performance Me asurement                                                                            
+FP6 Training Arrangements                                                                                                  
+ 
+Hazard Criteria  
+ 
+  H1 Working at Heights  
+H2 Telecommunications Towers  
+H3 Demolition  
+H4 Asbestos  
+H5 Structural Alterations/Temporary Support Structures  
+H6 Confined Space  
+H7 Excavation (must be at a depth of 1.5 meters of greater)  
+H8 Tunnels  
+H9 Explosives  
+H10 Pressurised Gas  
+H11 Chemical, Fuel or Refrigerant Lines  
+H12 Electrical  
+H13 Contaminated/Flammable Atmosphere  
+H14 Tilt up/Precast Concrete  
+H15 Traffic  
+H16 Mobile Plant  
+H17 Artificial Extremes of Temperature  
+H18 Diving  
+H19 Construction Work In, Over or Adjacent to Water/Liquids Where Risk of Drowning  The FSC Audit Criteria Guidelines  
+9  
+WHS AUDIT CRITERIA  
+WH3 Legal Requirement  
+WH3.1  
+ 
+ There is a documented process to ensure all health and safety legislation, codes of practice and Australian standards are ide ntified relevant to:  
+• the company operations; and  
+• the project/site activities.  
+Scope  A documented process for all criteria means that there is a written process (in any format) included in the WHS Management System that clearly describes the 
+requirements for the s pecific aspect, and may include the purpose, what must be done and by whom, when and how it is to be done, what tools, materi als and 
+documents are needed and how the activity is controlled and recorded. Implementation means the completion of the requiremen ts defined in the WHS Management 
+System and associated procedures, including completion of any required tools, forms or documents. Evidence of both of these a spects will be reviewed for all criteria at 
+audit.  
+This criterion requires the company to define t he process for identifying and recording health and safety legislation, codes of practice and Australian standards 
+applicable to the company, and then to adjust the company list/register to reflect the project based health and safety requir ements relevant to the scope of works for 
+the project.  
+Possible  
+Evidence  • Company legal register.  
+• Specific prompts for identifying health and safety legislation and other requirements.  
+• Reference to the inputs and methods to obtain legislative and other requirements.  
+• Project level process to review company register and make it specific to the needs of the project (i.e. removal or strike -through of non -relevant reference 
+documents).  
+Notes  1. A subscription service alone will not satisfy this criterion.  
+2. A sin gle register for both the company and the project with no adjustment (i.e. the exact same register) will not satisfy this cri terion.  The FSC Audit Criteria Guidelines  
+10  
+WH3.2  
+ There is a documented process to ensure all current health and safety legislation, codes of practice and Australian standards  relevant to the project are readily 
+available on site and workers are informed of the method of access.  
+Scope  This criterion requires the company to define the process to provide access at the site level to hard -copy or electronic versions of the health and safety legislation, codes 
+of practice and Australian standards documents identified as relevant to the project in  WH3.1, and the process for communicating to all workers how to gain access to 
+the documents.  
+Possible  
+Evidence  • Evidence of access at site level.  
+• Communication of access provisions at induction.  
+• Site notice board content.  
+Notes  1. A subscription service alone will not satisfy this criterion.  
+2. A process for communication that does not systematically cover all workers will not satisfy this criterion.  
+3. Access to the documents alone will not satisfy this criterion.  
+ 
+WH3.3  There is a docume nted process to ensure changes to health and safety legislation, codes of practice and Australian standards relevant to the c ompany and project 
+are reviewed and processes updated as required.  
+Scope  This criterion requires the company to define the process for identifying changes to the applicable legal requirements, reviewing the impact of any identified change and 
+the prompt to review the relevant procedures that may be affected.  
+Possible  
+Evidence  • Subscription to on -line update services.  
+• Legal re gister at company/project levels.  
+• Process to review the company/project legal registers at designated frequencies to identify potential changes.  
+• Corrective action or change management process/records.  
+• Process to review the legal registers.  
+Notes  1. A subscription service alone will not satisfy this criterion.  
+2. Changes to the legal register/references without review of the relevant procedural impacts will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+11 WH12 Hazard Identification Risk Assessment and Control (HIRAC)  
+WH12.1  There is a documented HIRAC methodology.  
+Scope  This criterion requires the company to define the process to identify and record the potential hazards, assess the level of r isk associated with each of the potential 
+hazards and define the controls necessar y to manage the hazards. This must include a process to calculate the levels of risk and determine control measures as per 
+AS/NZS ISO 31000.  
+Possible  
+Evidence  • Risk Matrix.  
+• Likelihood (probability and exposure) and consequence descriptor.  
+• Risk Registers/Risk Assessments.  
+• Other HIRAC outputs e.g. SWMS.  
+Notes  1. A risk matrix alone will not satisfy this criterion.  
+2. Company HIRAC outputs not using the company HIRAC methodology will not satisfy this criterion.  
+ 
+WH12.2  
+ There is a documented process to ensure the project HIRAC process is undertaken by personnel trained in the use of the company’s HIRAC methodology and tools.  
+Scope  This criterion requires the company to make sure that all personnel who are completing or participating in projec t HIRAC processes are trained in the company’s specific 
+HIRAC methods and associated forms and tools. Trained means that a worker has been trained internally, consistent with company defined requirements. Evidence of 
+specific content delivered or communica ted is required.  
+Possible  
+Evidence  • Training program/outline including the company’s HIRAC methods, and associated forms and tools.  
+• Company training matrix/register.  
+• Completed training records (internal and/or external).  
+Notes  1. Generic Risk Management training alone will not satisfy this criterion.  
+2. Training in the Risk Matrix alone will not satisfy this criterion.  
+3. Generic induction training that doesn’t include company specific HIRAC methodology and tools will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+12 WH12.3  There is a documented process to ensure project specific HIRAC is conducted.  
+Scope  This criterion requires the company to make sure that all of  the potential health and safety hazards associated with the project scope and activities are identified, risk 
+assessment is conducted for each identified hazard, and the required controls are documented. In documenting the assessment a nd controls there sh ould be a clear link 
+back to the identified hazard, and therefore grouping of the hazards will generally not achieve the required outcome for this  criterion.  
+Possible  
+Evidence  • Project Risk Assessments/Project Risk Registers.  
+• Project risk assessment contr ols included into SWMS.  
+Notes  1. A generic risk assessment will not satisfy this criterion.  
+2. Potential hazards that do not have commensurate control measures will not satisfy this criterion.  
+ 
+WH12.4  There is a documented process to liaise with client/public/other entities to implement a HIRAC process for any hazards impacting any of the parties.  
+Scope  This criterion requires the company to define the process to identify and interact with all relevant stakeholders, and to man age the hazards that may impact the 
+stakeholders or the project.  
+Possible  
+Evidence  • Initial stakeholder meeting minutes with client/public/other entities prior to project commencement.  
+• Project Risk Registers/Project Risk Assessments.  
+• Regular stakeholder meeting m inutes.  
+• Information drops to residents.  
+Notes  1. Assessment of hazards without documented liaison alone (and vice versa) will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+13  
+WH12.5  There is a documented process to define the company’s acceptable risk level and management actions to be taken if assessed risk is higher than that level.  
+Scope  This criterion is about an escalation process where risk is assessed as too high. This criterion requires the company to defi ne the process to classify the assessed risk 
+score/level and define actions to be undertaken to treat the risk including acceptance /tolerance criteria and actions to be undertaken based on the classification. The 
+company is first required to determine the risk level/ranking/score (e.g. extreme, high, medium, low or 1 -5, 6-8, 9-12 etc.) for each hazard based on the likelihood and 
+conse quence assessment. The company is then required to set their unacceptable risk level – e.g. anything high or greater is unacceptable. Finally, the company is 
+required to define management actions to be taken where risk is assessed as being above the accept able level (e.g. cease work, senior management sign off required, 
+permit to work system required, additional supervision required etc.).  
+Possible  
+Evidence  • Process to evaluate risk assessment outcomes and apply control actions based on the classification  level.  
+• Actions defined are utilised when developing controls to manage the hazard.  
+Notes  1. Definition of risk levels alone will not satisfy this criterion.  
+2. Application of the Hierarchy of Control alone will not satisfy this criterion.  
+ 
+WH12.6  
+ There is a  documented process to ensure  control measures are established for identified hazards in accordance with:  
+• the Hierarchy of Control; and  
+• applicable legislation, codes of practice and Australian standards.  
+Scope  This criterion requires the company to make sure the Hierarchy of Control is used to make decisions on the level of controls to be used, and that controls developed  are 
+consistent with the relevant requirements outlined in the legislation, codes of practice, and Australian standards.  
+Possible  
+Evidence  • Project Risk Assessment/Project Risk Register details controls using the Hierarchy of Control.  
+• HIRAC methodology incorporates the Hierarchy of Control.  
+• Requirements of legislation, codes of practice and Australian standards are incorpora ted into controls.  
+• Review criteria for subcontractor procedures incorporate checks for use of the Hierarchy of Control and relevant legal requir ements being incorporated into 
+control measures.  
+Notes  1. Inclusion of the Hierarchy of Control in the HIRAC metho dology alone will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+14 WH12.7  There is a documented process to evaluate the effectiveness of company, project and task specific HIRAC processes.  
+Scope  This criterion requires the company to review its HIRAC methodology to verify that company, project and task based HIRAC processes remain effective.  
+Possible  
+Evidence  • Records of review of HIRAC procedures/methodology at various company, project and task levels.  
+• Records of review of HIRAC processes and outputs e.g. management review, annual system review, WHSMS audits, review of Risk Assessments/Risk Registers, 
+Project Safety Plans, Task Observations, SWMS Reviews.  
+Notes  1. A review of outputs (Risk Assessments/Risk Registers, Project Safety Plans, Task Observations, S WMS Reviews) alone will not satisfy this criterion.  
+ 
+WH13 Emergency Preparedness and Response  
+WH13.1  There is a documented process to identify potential emergency situations for the project.  
+Scope  This criterion requires the company to define the process to identify all of the foreseeable project -specific emergencies that may occur, and the method of recording 
+them.  
+Possible  
+Evidence  • Emergency Risk Assessment/Register.  
+• Emergency Management Plan (or similar).  
+• Listing of emergencies within Project Safety Plan or Project Risk Register.  
+• Generic Emergency Management Plan updated with project specific emergency situations and actions.  
+Notes  1. A generic Emergency Management Plan/Register will not satisfy this criterion.  
+2. The client Emergency Management Plan alone will not satisfy this criterion.  
+ 
+WH13.2  There is a documented process to ensure procedures/plans are developed and regularly reviewed for identified emergency situa tions  
+Scope  This criterion requires the company to define the process to develop specific emergency procedures for each of the identified  emergencies (which may be 
+incorporated into an Emergency Plan), including the process for reviewing the procedures to make sure they remain valid for the project activities.  The FSC Audit Criteria Guidelines  
+15 WH13.2  There is a documented process to ensure procedures/plans are developed and regularly reviewed for identified emergency situa tions  
+Possible  
+Evidence  • Procedures for each identified potential emergency.  
+• Emergency Plan, with procedure and prompts for review.  
+• Completed Emergency Plan/Procedure reviews.  
+Notes  1. A generic Emergency Management Plan/Register will not satisfy this criterion.  
+2. The client Emergency Management Plan alone will not satisfy this criterion.  
+3. A single Emergency Evacuation plan (i.e. the same for all potential emergencies) will not satisfy this c riterion.  
+4. Emergency contact details alone will not satisfy this criterion.  
+ 
+WH13.3  There is a documented process to ensure emergency response arrangements are communicated to all personnel and visitors.  
+Scope  This criterion requires the company to define the process to make sure that all workers on site, and any visitors, have been informed of the emergency procedures fo r 
+the site.  
+Possible  
+Evidence  • Site Induction content.  
+• Visitor induction.  
+• Site Noticeboard/sign in area contents.  
+Notes  1. A site no ticeboard with the emergency contact details alone will not satisfy this criterion.  
+ 
+WH13.4  There is a documented process to ensure designated emergency personnel for the project:  
+• have been inducted in the site -specific emergency procedures/plans; and  
+• have obtained any qualification or formal training defined by the company as required to fulfill the role.  
+Scope  This criterion requires the company to define the process to make sure that the personnel who have been allocated emergency r esponse roles for the site have been 
+trained in the site emergency procedures/plans, and hold other relevant qualifications and for mal training as defined by the company (e.g. emergency warden, first aid, 
+confined space etc.).  The FSC Audit Criteria Guidelines  
+16 WH13.4  There is a documented process to ensure designated emergency personnel for the project:  
+• have been inducted in the site -specific emergency procedures/plans; and  
+• have obtained any qualification or formal training defined by the company as required to fulfill the role.  
+Possible  
+Evidence  • Company/project training matrix/register.  
+• Completed training records (internal and/or external).  
+• Emergency Management Plan (or similar).  
+• Emergency contact details.  
+Notes  1. Generic Fire Warden training alone will not satisfy this criterion.  
+2. Awareness training in the site emergency procedures/plans alone will not satisfy this criterion.  
+ 
+WH13.5  There is a documented process to ensure emergency practice drills:  
+• are scheduled and carried out on site;  
+• are scenario based and test a variety of the identified potential emergency situations;  
+• are recorded and evaluated for effectiveness; and  
+• incorporate a process for the identification and ma nagement of corrective actions.  
+Scope  This criterion requires the company to define the process to make sure that emergency procedures/plans are scheduled and prac ticed on site, that the drills are based 
+on the identified project -specific situations, and  that the results are recorded and reviewed for any necessary improvements. Not all scenarios have to be practiced; 
+however, more than just generic evacuation is required. Frequency is as determined by the company.  
+Possible  
+Evidence  • Emergency drill schedule.  
+• Emergency drill records.  
+• Corrective Actions raised, based on drill outcomes.  
+Notes  1. An annual drill where project duration is typically less than 12 months will not satisfy this criterion.  
+2. Generic evacuation drills alone will not satisfy this cri terion.  
+3. Emergency drill records without analysis of the effectiveness of the drill will not satisfy this criterion.  
+4. Conducting a drill alone will not satisfy this criterion where there is no evidence of a schedule and requirements for freque ncy. The FSC Audit Criteria Guidelines  
+17  
+WH13.6  
+ There is a documented process to ensure a qualified person identifies site first aid equipment and requirements in accordance  with relevant legislation, codes of 
+practice and Australian standards.  
+Scope  This criterion requires the company to define the process to make sure that a person who holds the required qualification (as  defined by the company) has completed a 
+site-specific review of the first aid requirements (in accordance with the Code of Practic e) and has made sure that the first aid arrangements on site are in line with the 
+review. A single assessment covering the requirements of this criterion as well as WH13.7 is acceptable so long as all requir ements are captured. Qualified means a 
+person who  holds a recognised degree, certificate or professional standing relevant to the activity or works.  
+Possible  
+Evidence  • Company training matrix/register.  
+• Completed training records.  
+• Project first aid assessment.  
+• First aid arrangements on site are as specified in the assessment.  
+• On-site first aid equipment and provisions match what has been identified in the assessment.  
+Notes  1. The presence of first aid persons and equipment alone will not satisfy this criterion.  
+ 
+WH13.7  There is a documented process to ensure a competent person identifies site emergency equipment and requirements.  
+Scope  This criterion requires the company to define the process to make sure that a person who holds the required training (as defi ned by the company) has completed  a site -
+specific review of the emergency requirements and has made sure that the right equipment is located on site to cater for the identified emergencies that may occur on 
+the project. Emergency equipment may include extinguishers, equipment specific to potential site emergencies such as retrieval of arrested fall, confined spaces, 
+working around live electrical equipment, stretcher, method of raising alarm, personal floatation devices, remote site requir ements etc., and should consider the 
+placement of s uch equipment. Competent means that a person has been deemed to meet the combination of licences, qualifications, training and instruction as defined 
+by the company or by legal requirements for an activity or works.  
+Possible  
+Evidence  • Company training matrix/register.  
+• Completed training records (internal and/or external).  
+• Evidence of review of project emergency requirements.  
+• Emergency equipment on site as specified in the review.  The FSC Audit Criteria Guidelines  
+18 WH13.7  There is a documented process to ensure a competent person identifies site emergency equipment and requirements.  
+Notes  1. Review of fire -related emergency equipment alone will not satisfy this criterion.  
+ 
+WH13.8  There is a documented process to ensure inspection, test  and maintenance requirements for emergency and first aid equipment are identified, scheduled and 
+undertaken.  
+Scope  This criterion requires the company to define the process to make sure that all of the emergency and first aid equipment on s ite is inspected and maintained, and that 
+any equipment on site is up to date.  
+Possible  
+Evidence  • Emergency/First Aid Equipment re gister.  
+• Records of inspection/maintenance.  
+• Current tags/records of inspection.  
+Notes  1. Inspection of fire -related emergency equipment or first aid equipment alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+19 WH13.9  There is a documented process for managing critical incidents, including:  
+• the company’s definition of a critical incident;  
+• clearly defined roles;  
+• return -to-work of injured workers;  
+• employee assistance/counselling; and  
+• the process for review of the effectiveness of critical inci dent response procedures.  
+Scope  This criterion requires the company to define the type and level of incident that would be regarded as critical by the compan y, and the process to make sure that any 
+defined critical incidents are managed.  
+Possible  
+Evidence  • Critical Incident Management Plan.  
+• Return to work procedures.  
+• Critical incident training.  
+• Critical incident drills/reviews.  
+• Employee assistance/counselling contact details/procedures.  
+Notes  1. General Emergency or Incident management procedures alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+20 WH14 Health Surveillance and Exposure Monitoring  
+WH14.1  There is a documented process to ensure a competent person completes a site -specific assessment of potential health hazards, inc luding:  
+• biological;  
+• physical; and  
+• chemical/atmospheric contaminants.  
+Scope  This criterion requires the company to define the process to make sure that potential health hazards (e.g. noise, vibration, dust, gases, chemicals, fumes etc.) on the 
+project are assessed, and that based on the potential worker personal exposure levels, a process for managing each health haz ard is defined.  
+Possible  
+Evidence  • Project risk assessment/Health risk assessment.  
+• Project Management Plan/Project Safety Management Plan inclusive of health hazard management.  
+Notes  1. Health monitoring/surveillance by a medical practitioner will not satisfy this criterion.  
+2. Pre-employment medical assessments will not satisfy this criterion.  
+3. Environmental monitoring will not satisfy this criterion.  
+ 
+WH14.2  There is a documented process to ensure that, where identified as required, personal exposure to health hazards is measured a nd evaluated on the project by a 
+formally trained person.  
+Scope  This criterion requires the company to define the process for a trained person to measure individual worker exposure on the p roject to the potential health hazards 
+identified in the health assessment (e.g. noise, vibration, dust, gases, chemicals, fumes et c.), and the results of the measurements are compared to the workplace 
+exposure standards (as defined by SWA standards and/or guidance material). Formally trained means a person who has undertaken formal training against a specified 
+training course or plan , with outcomes documented as relevant to the activity or works.  
+Possible  
+Evidence  • Project risk assessment/Health risk assessment.  
+• Reports from measurements taken including comparison to workplace exposure standards and/or guidance material.  
+Notes  1. Health monitoring/surveillance by a medical practitioner will not satisfy this criterion.  
+2. Pre-employment medical assessments will not satisfy this criterion.  
+3. Measurements taken with un -calibrated devices (e.g. smart phones) will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+21 WH14.3  There is a documented process to ensure  that worker health surveillance/monitoring:  
+• is carried out in accordance with identified health hazards;  
+• is carried out in accordance with relevant legislation, codes of practice and Australian standards; a nd 
+• includes a process for management and communication of health monitoring results and records.  
+Scope  This criterion requires the company to define the process for identifying any health hazard that a worker may be exposed to t hat requires a medical practitioner to 
+conduct tests (monitoring/surveillance) to determine the level of exposure to the hazard, in accordance with legislation.  
+Possible  
+Evidence  • Reference to the health monitoring/surveillance legislation requirements.  
+• Process for prov iding information to workers and maintaining confidentiality.  
+Notes  1. Pre-employment medical assessments alone will not satisfy this criterion.  
+ 
+WH14.4  There is a documented process to ensure inspection, measuring and test equipment related to health and safety is identified, calibrated, and maintained in 
+accordance with manufacturers’ requirements and relevant legislation, codes of practice and Australian standards.  
+Scope  This criterion requires the company to define the process used to make sure that any equipment used in the measurement of health and safety related hazards is tested 
+as per the manufacturers recommendations.  
+Possible  
+Evidence  • Calibration register.  
+• Calibration stickers.  
+• Testing/Calibration certificates from accredited agencies.  
+Notes  1. Testing from non -accredited agencies will not satisfy this criterion.  
+2. Stickers and/or certificates alone will not satisfy this criterion.  
+3. This criterion does not include equipment that is not used to measure health and safety -related exposures (e.g. lasers, theodolites etc.).  
+ The FSC Audit Criteria Guidelines  
+22 WH14.5  There is a documented process to ensure the management of hazardous chemicals on the project.  
+Scope  This criterion requires the company to define the process to manage all of the hazardous chemicals (including those brought to site by contractors) on the project, 
+including (but not limited to) the provision/use of SDSs; registers; risk assessment; labelling; storage; PPE etc.  
+Possible  
+Evidence  • Hazardous chemicals register.  
+• Hazard ous chemical risk assessments.  
+• SWMS that include use of hazardous chemicals.  
+• Evidence of management of chemicals on site.  
+• PPE use in accordance with SDS/SWMS.  
+Notes  1. A hazardous chemical register alone will not satisfy this criterion.  
+2. Copies of SDS alone w ill not satisfy this criterion.  
+ 
+WH15 Incident Investigation and Corrective Action  
+WH15.1  There is a documented process to ensure all health and safety incidents are reported, recorded, and investigated as defined b y the company’s system, with external 
+notification completed where required.  
+Scope  This criterion requires the company to define the process to make sure that all health and safety incidents are reported and investigated, and where necessary, 
+notification to the relevant regulator/as set owner is completed.  
+Possible  
+Evidence  • Incident report/investigation process and associated forms.  
+• Process for notifying the regulator/asset owner.  
+Notes  1. Incident report forms alone will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+23 WH15.2  There is a documented process to ensure Investigations:  
+• are undertaken by a trained person(s);  
+• identify the factor(s) that led to the incident;  
+• incorporate a process for the identification and management of corrective actions;  
+• involve and/or are reviewed by site/se nior management as defined by the company’s system; and  
+• prompt a review of relevant processes/procedures.  
+Scope  This criterion requires the company to define the process for making sure that any health and safety investigations are compl eted by trained pe ople, that the 
+investigation process makes sure that the incident causal factors are found, and that appropriate actions are taken to preven t the incident happening again . 
+Possible  
+Evidence  • Completed incident investigations.  
+• Completed investigation recommendations.  
+• Company training matrix/register.  
+• Completed training records (internal and/or external).  
+• Evidence of senior management involvement.  
+Notes  1. Completed incident reports alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+24 WH15.3  There is a documented process to manage corrective actions, including:  
+• specified target completion dates;  
+• allocated responsibility for addressing corrective actions;  
+• closure of corrective actions by the specified completion date; and  
+• identifying organisation - wide issues and ensuring lessons learnt are communicated throughout the organisation.  
+Scope  This criterion requires the company to define the process to make sure that any corrective actions raised by the com pany are managed so that the actions are 
+completed in a timely manner, signed off by the person responsible and lessons learnt are communicated at the organisational level.  
+Possible  
+Evidence  • Corrective action form/register.  
+• Review of the corrective actions.  
+• Corrective action deadlines met.  
+• Safety Alerts and bulletins generated by the company based on company trends in corrective actions.  
+Notes  1. A corrective action register alone will not satisfy this criterion.  
+ 
+WH17 Health & Safety Manag ement System Audit  
+WH17.1  
+ There is a documented process to ensure a health and safety management system audit program is established for the company an d project, and audits are 
+scheduled in accordance with the program.  
+Scope  This criterion requires the company to define how management system audits are planned, including the requirement to develop a documented au dit schedule at both 
+the company and project level.  
+Possible  
+Evidence  • Audit program or procedure.  
+• Audit Schedule.  
+Notes  1. An Audit Schedule alone will not satisfy this criterion.  
+2. Audits at either the company or project level alone will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+25 WH17.2  
+ There is a documented process to ensure that the audit program defines the audit:  
+• scope;  
+• methodology;  
+• reporting requirements; and  
+• process for identifying and managing corrective actions.  
+Scope  This criterion requires the company to define the process of conducting an audit including setting out the scope of the audit , detailing how the audit  will be conducted 
+and managed, what needs to be reported as a result and to whom, and how any corrective actions identified will be addressed.  
+Possible  
+Evidence  • Audit Report.  
+• Audit procedure.  
+• Corrective actions process/register.  
+Notes  1. Addressing the scope, methodology, and corrective action process within an audit report alone will not satisfy this criterion . 
+2. Reporting requirements without any escalation to senior management will not satisfy this criterion.  
+ 
+WH17.3  There is a document ed process to ensure that formally trained personnel undertake audits in accordance with the schedule.  
+Scope  This criterion requires the company to define the process to make sure that personnel undertaking the audit are formally trai ned, and that the audits are completed as 
+per the schedule.  
+Possible  
+Evidence  • Training Records.  
+• Training Needs Analysis.  
+• Position Description.  
+• Sign off or review of audit schedule.  
+Notes  1. The auditor training record alone will not satisfy this criterion.  
+2. Copies of audit reports alone will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+26 FOCUS POINT AUDIT CRITERIA  
+FP1 Senior Management Commitment  
+FP1.1  There is a documented process to ensure that senior managers demonstrate participation in the company HIRAC proces ses. 
+Scope  This criterion requires the company to make sure that senior managers are actively involved in HIRAC processes for their area  of responsibility.  Senior manager means a 
+person responsible for controlling or administering a significant part of the company or group of employees above the project  level management team   
+Possible  
+Evidence  • Minutes of review of risk registers.  
+• Attendance list at risk wo rkshop.  
+• Final approval of risk registers (project and/or company) by senior managers.  
+Notes  1. The criterion will not be satisfied where there is a failure to identify the senior management roles within the company.  
+ 
+FP1.2  
+ There is a documented process to ensure WHS reports are produced that:  
+• monitor performance against the WHS objectives and targets defined by the organisation;  
+• are regularly reviewed by senior management; and  
+• are communicated to site management.  
+Scope  This criterion requires the company to define the process to make sure that WHS performance reports are compiled to review th e project and company performance 
+against the objectives and targets set by the company. The reporting process must include a senio r management review component and results must be communicated 
+to site management.  
+Possible  
+Evidence  • WHS Objectives and targets.  
+• WHS performance reports.  
+• Evidence of communication to site management.  
+Notes  1. Objectives and targets at project and company levels that are not aligned will not satisfy this criterion.  
+2. Production and review of WHS reports alone will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+27 FP1.3  
+ There is a documented process to ensure senior managers, site managers and supervisors are trained in WHS obligations/due diligence, and the company’s WHS 
+management system requirements relevant to their role.  
+Scope  This criterion requires the company to define the process to make sure senior managers, site managers and supervisors are tra ined in their WHS legal duties and the 
+company’s WHS management system requirements , relevant to the role . 
+Possible  
+Evidence  • Training program based on WHS due diligence and WHS legal obligations.  
+• Training matrix/records.  
+• Position descriptions nominating minimum training requirements.  
+Notes  1. Training records alone will not satisfy this criterion.  
+2. Generic WHS training alone will not satisfy this criterion.  
+3. A general induction safety course will not meet this criterion.  
+ 
+FP1.4  There is a documented process that ensures senior managers regularly visit the site and discuss WHS issues with site management and work ers. 
+Scope  This criterion requires the company to define the process to make sure that senior managers are required to visit project sites at a nominated frequency and review the 
+relevant WHS hazards/issues with site management and workers.  
+Possible  
+Evidence  • WHS inspection/observation record.  
+• Minutes of meetings where WHS is discussed at the project level.  
+• Schedule or KPIs for  senior managers.  
+• Toolbox record with content and attendance.  
+Notes  1. Project Manager and Construction Manager attendance alone will not satisfy this criterion.  
+2. Visits to project sites with no record of attendance or records of discussion of WHS will not sa tisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+28 FP2 Integration of Design Issues into the Risk Management Process  
+FP2.1  
+ Where the Principal Contractor is involved in the design or has input into the design, a documented process exists for ensuri ng risk assessments are undertaken at 
+the design stage to identify, assess and control WHS buildability issues that may arise during construction.  
+Scope  This criterion requires the company to define the process to manage projects that are ‘design and construct’ (i.e. where the contract held by the PCBU includes a 
+requirement to facilitate and control the design of the structure) , including the completion o f a risk assessment of the design for buildability issues prior to the 
+construction stage of the project. Where a company can establish that they never have involvement in design, a ‘not applicabl e’ for this criterion is possible.  
+Possible  
+Evidence  • Safe Design Risk Assessment/Project Risk Assessment capturing buildability issues.  
+• Design Management Process.  
+Notes  1. A Risk Assessment that does not consider ‘buildability’ hazards will not satisfy this criterion.  
+ 
+FP2.2  Where the Principal Contractor has no input into the design, a documented process exists for ensuring design -related WHS buildability issues are identified, assessed 
+and controlled at the pre -construction phase.  
+Scope  This criterion requires the company t o define the process for obtaining and reviewing a safe design risk assessment including buildability issues from the designe r for 
+‘construct -only’ projects (i.e. where the contract held by the PCBU does not include any design duties or control over the de sign decisions) prior to the construction 
+stage of the project. Where this risk assessment is not received from the designer the company is required to have a process to make sure a risk assessment of the 
+design for buildability issues is completed prior t o the construction stage of the project.  
+Possible  
+Evidence  • Safe Design Risk Assessment/Project Risk Assessment capturing buildability issues.  
+• Design Management Process.  
+• Formal request for Safe Design Risk Assessment.  
+Notes  1. A Risk Assessment that does not consider ‘buildability’ hazards will not satisfy this criterion.  
+2. Requesting a safe design risk assessment from the designer alone will not satisfy this criterion.  
+ The FSC Audit Criteria Guidelines  
+29 FP2.3  
+ There is a documented process to ensure residual bu ildability hazards identified in FP2.1 and FP2.2 are transferred and addressed in the project specific risk 
+assessment process.  
+Scope  This criterion requires the company to define the process to make sure that any buildability hazards identified in the Safe Design Risk Assessment that cannot be 
+adequately controlled at the design stage are transferred to the Project Risk Assessment/Register.  
+Possible  
+Evidence  • Safe Design Risk Assessment/Project Risk Assessment alignment.  
+• Design Management Process.  
+Notes  1. Having a safe design risk assessment and a project risk assessment/register alone will not satisfy this criterion.  
+ 
+FP2.4  There is a documented process to ensure a HIRAC process is conducted on changes to design during construction, with any new h azards or changes to hazard controls 
+communicated to relevant workers.  
+Scope  This criterion requires the company to define the process to make sure that any design changes that occur during the construc tion phase of the project are assessed 
+using the HIRAC process to see whether the change introduces new hazards or changes existing hazards on the project, and that the chang es to hazards or controls are 
+communicated to relevant workers.  
+Possible  
+Evidence  • Design change form/RFI process incorporating HIRAC.  
+• Safe Design Risk Assessment review.  
+• SWMS/Toolbox Talk records.  
+•  
+Notes  1. A design change process that does not incorporate HIRAC will not satisfy this criterion.  
+2. An indication of ‘no change required’ without assessment of the design chan ge will not satisfy this criterion.  
+3. Review of design change without communication of resulting changes to relevant workers will not satisfy this criterion.  
+ 
+FP3 Whole of Project Consultation  The FSC Audit Criteria Guidelines  
+30 FP3.1  
+ 
+ 
+ There is a documented process for the establishment of WHS consultation, cooperation and coordination arrangements, including:  
+• agreement on the establishment of consultation arrangements with workers on site;  
+• consultation with workers or their representatives when WHS issues arise;  
+• a program t o ensure regular meetings with minutes of the meetings available to all workers; and  
+• training for health and safety representatives/WHS committee members where requested/required.  
+Scope  This criterion requires the company to define the process to setup consultation arrangements on the project including agreement with workers on how consultation will 
+be conducted and documented, plus training for health and safety representatives and/or committee members.  
+Possible  
+Evidence  • Minutes where the consul tation arrangements have been proposed / discussed / agreed.  
+• Minutes of meetings available.  
+• Training records.  
+Notes  1. A consultation process without evidence of agreement with workers regarding the arrangements to be undertaken will not satisf y this criterion  
+ 
+FP3.2  There is a documented process for WHS issue resolution that is communicated to all workers on site.  
+Scope  This criterion requires the company to define the process to resolve any issues related to WHS as per the requirements of the  legislation, with communication of the 
+issue resolution arrangements to all workers on the site.  
+Possible  
+Evidence  • WHS Issue Resolution Procedure.  
+• Induction content and record.  
+• Site notice board.  
+Notes  1. Posting the Issue Resolution procedure on the site notice board alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+31  
+FP3.3  There is a documented process to ensure workers, or their health and safety representatives, are involved in the development of site safety procedures relevant to 
+the work they are undertaking.  
+Scope  This criterion requires the company to define the process to engage with workers or their WHS representatives when developing  health and safety procedures (e.g. 
+SWMS, JHA, SOP etc.) that are within the scope of works being unde rtaken by the workers.  
+Possible  
+Evidence  • SWMS/JHA/SOP etc. with record of consultation.  
+• WHS consultation with WHS Rep or WHS Committee.  
+Notes  1. A generic statement that workers have been involved in the development of the procedure will not satisfy this criterion.  
+ 
+FP4 Management of Subcontractor WHS  
+FP4.1  
+ There is a documented process to ensure details from the Principal Contractor’s WHS plan and/or project risk assessment are p rovided to subcontractors as 
+applicable to the scope of works they are undertaking prior to the commencement of work.  
+Scope  This criterion requires the company to define the process to make sure relevant details from their WHS Plan, Project Risk Ass essment, site rules etc. are provided to 
+subcontractors prior to commencing onsite.  
+Possible  
+Evidence  • Transmission record in electronic system/email showing relevant content provided to subcontractors.  
+• Tender requirements including relevant details.  
+• Subcontractor engagement pack including relevant details from the Principal Contractor’s WHS Plan, Project Risk Assessment, site rules etc.  
+Notes  1. Providing this information at induction alone will not satisfy this criterion.  
+2. Providing the whole management system will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+32 FP4.2  There is a documented process to ensure HIRAC is applied  in subcontractor selection/procurement.  
+Scope  This criterion requires the company to define the process to make sure safety forms part of the requirements considered when selecting subcontractors to be engaged 
+on site.  
+Possible  
+Evidence  • Preferred supplier list based in part on safety requirements.  
+• Subcontractor pre -commencement evaluation.  
+Notes  1. Review of subcontractor performance on site alone will not satisfy this criterion.  
+2. Review without management actions will not satisfy this criterion.  
+ 
+FP4.3  
+ There is a documented process to ensure SWMS are developed for all high -risk construction work as defined in relevant legislation, codes of practice and Australian 
+standards, and these are reviewed by the Principal Contractor against company defined criteria prior to the commencement of w ork. 
+Scope  This criterion requires the company to define the process to make sure that site -specific SWMS are developed for all high -risk activities, with a specific review completed 
+by the Principal Contractor to make sure the SWMS meets the company requirements. If  a company’s system requires SWMS for further activities, or if a subcontractor 
+utilises SWMS for further activities, the requirement to review them prior to work commencement would still need to be met.  
+Possible  
+Evidence  • SWMS available for high -risk ac tivities on the project.  
+• SWMS review and revision record.  
+Notes  1. A SWMS without a documented review completed by the Principal Contractor prior to works starting will not satisfy this criter ion. 
+2. Identified issues in the SWMS not addressed prior to work com mencing will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+33 FP4.4  There is documented process to ensure a common system of site induction for all subcontractors and workers.  
+Scope  This criterion requires the company to define the process to provide a standard system of induction training to all workers on the project.  
+Possible  
+Evidence  • Induction Agenda.  
+• Induction Record.  
+• Induction Register.  
+Notes  1. The use of an induction or sign -in register alone will not satisfy this criterion.  
+ 
+FP4.5  There is a documented process to ensure subcontractors participate in undertaking WHS inspections with the Principal Contract or. 
+Scope  This criterion requires the company to define the process to make sure the company and subcontractors complete inspections on the project together. This criterion 
+requires subcontractors to participate in inspections on more than just their own immediate work area.  
+Possible  
+Evidence  • Inspection record  identifying subcontractor participation . 
+• Inspection program.  
+Notes  1. Evidence that subcontractors have been inspected will not satisfy this criterion.  
+2. This criterion does not require subcontractors to participate in all inspections on the project.  
+3. Evidence of subcontractors participating in inspections of their own work area alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+34 FP4.6  There is a documented process to ensure work is undertaken in accordance with SWMS.  
+Scope  This criterion requires the company to define the process to review the work activities being undertaken to make sure works are being completed in accordance with t he 
+controls specified within the SWMS.  
+Possible  
+Evidence  • SWMS review/Task observation.  
+• Inspection/audit record.  
+Notes  1. A site inspection process without criteria for the evaluation of SWMS compliance will not satisfy this criterion.  
+2. An inspection record that doesn’t include the details of the SWMS against which the work is being reviewed will not satisfy t his criterion.  
+ 
+FP5 Pro ject Performance Measurement  
+FP5.1  There is a documented process to ensure WHS performance reports are produced at a project level and incorporated into the com pany WHS reporting process.  
+Scope  This criterion requires the company to define the process to prepare WHS reports that review the project WHS performance, and how the report/outcomes are included 
+into the company WHS reporting processes.  
+Possible  
+Evidence  • Project WHS report.  
+• Division or company WHS report inclusive of project reports.  
+• Performance indicators.  
+Notes  1. A project level WHS performance report alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+35  
+FP5.2  There is a documented process to ensure that a project -specific  WHS management plan is developed for each project that:  
+• is signed off/authorised by the senior management position allocated overall WHS responsibility for the project;  
+• clearly defines the WHS roles and responsibilities for the project;  
+• outlines the scope  of works for the project and how they will be managed; and  
+• includes specific prompts for review and evaluation.  
+Scope  This criterion requires the company to define the process to develop and approve the site -specific WHS Management Plan for the project. The WHS Management Plan 
+must be specific to the project and include prompts for review to make sure it remains up -to-date.  
+Possible  
+Evidence  • WHS Management Plan.  
+• Project Management procedure/s.  
+• Evidence of a WHS Management Plan authorisation and  review process.  
+• Amendment register.  
+Notes  1. Generic WHS Management Plans that are not specific to the project will not satisfy this criterion.  
+2. Sign off of  the WHS Plan without definition or position description of who has overall WHS responsibility for the project will not satisf y this criterion.  The FSC Audit Criteria Guidelines  
+36 FP5.3  
+ There is a documented health and safety inspection program that:  
+• defines intervals and criteria for inspections;  
+• uses workplace specific checklist(s) to monitor compliance; and  
+• incorporates a process for the identification and management of corrective actions.  
+Scope  This criterion requires the company to make sure that  inspections of all work activities are completed to assess that works are being undertaken in accordance with the 
+project WHS requirements, with a process for management of any identified non -compliances.  
+Possible  
+Evidence  • SWMS reviews/Task observations.  
+• Inspection records.  
+• Corrective action records.  
+Notes  1. Inspection criteria that do not consider hazards associated with the project scope of works will not satisfy this criterion.  
+ 
+FP6 Training Arrangements  
+FP6.1  There is a documented process  to identify minimum WHS training, competency, qualification and licensing requirements for workers on the project.  
+Scope  This criterion requires the company to define the process to make sure that any specified WHS training, competency, qualifica tion and licensing requirements are 
+identified and documented for the workers on the project.  
+Possible  
+Evidence  • Training needs an alysis.  
+• Training matrix/register/records.  
+• Site induction requirements . 
+Notes  1. For some activities, training or licences alone may not satisfy this criterion; for instance, a verification of competency pr ocess may need to be undertaken.  
+2. Evidence of training/licences alone will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+37 FP6.2  There is a documented process to ensure identified minimum WHS training, competency, qualification and licensing requirements  are verified.  
+Scope  This criterion requires the company to define the process to make sure that all requirements specified for workers are completed.  
+Possible  
+Evidence  • Copies of qualifications and licences.  
+• Training matrix/register/records.  
+• Training database.  
+• Verification of Competency re cords . 
+• Site induction records.  
+Notes  1. Overdue minimum training requirements that are booked but not yet delivered will not satisfy this criterion.  
+ 
+FP6.3  There is a documented process to ensure workers are inducted in the site safety procedures relevant to the work they are undertaking.  
+Scope  This criterion requires the company to define the process to ensure that all workers are instructed in the site safety proced ures of the work they are undertaking, 
+including but not limited to SOPs, SWMS, permits etc. Inducted means company specific instru ction provided to a worker related to a task, activity or process, with 
+evidence of worker acknowledgement of instruction provided.  
+Possible  
+Evidence  • SWMS/JHA/SOP induction.  
+• Site induction.  
+• Toolbox/training record.  
+Notes  1. Induction that only captures some of the site safety procedures relevant to the work being undertaken will not satisfy this criterion.  
+2. Induction with no evidence of worker acknowledgement of instruction provided will not satisfy this criterion.  The FSC Audit Criteria Guidelines  
+38 FP6.4  There is a documented process to record WHS training provided to employees.  
+Scope  This criterion requires the company to define the process to make sure that any training provided to employees is recorded in  accordance with the company and/or 
+project training requirements.  
+Possible  
+Evidence  • Training matrix/register/records.  
+• Training database.  
+Notes  1. A training record alone will not satisfy this criterion.  
+ 
+  The FSC Audit Criteria Guidelines  
+39 HAZARD AUDIT CRITERIA  
+H1 Working at Heights  
+H1.1  The risks associated with the potential for a person falling are identified, assessed and controlled in accordance with the F alls from Height 
+Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where a person may fall 
+from height, and implement controls consistent with the specific Falls from Height Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at heights risk assessment.  
+• Controls utilised have been selected consistent with the Falls from Height Hierarchy of Control.  
+ 
+H1.2  The risks associated with the potential for falling objects are identified, assessed and controlled in accordance with the Hi erarchy of Cont rol. 
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where objects may fall from 
+height, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific falling objects risk assessment.  
+  The FSC Audit Criteria Guidelines  
+40  
+H1.3  Safe systems of work have been developed to ensure fall prevention systems/structures are:  
+• verified as installed in accordance with the manufacturers’ instructions and relevant legislation, codes of practice and Australian 
+standards; and  
+• subject to regular documented inspection as per the relevant legislation, codes of practice and Australian standards.  
+Scope  This criterion requires the company to make sure that any systems/structures in place to prevent falls are installed and inspected according to the 
+specifications required by the manufacturer, and any other relevant legal and other requirements.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Procedure for the management of work at heights.  
+• SWMS.  
+• Specific work at heights risk assessment.  
+• Completed inspections/permits.  
+• Installation records and handover certificates.  
+• Manufacturers’ guidelines/specifications.  The FSC Audit Criteria Guidelines  
+41 H1.4  Safe system s of work have been developed to ensure that where fall restraint/fall arrest equipment is being used on site:  
+• workers have been formally trained in the use of such equipment;  
+• there is a maintenance and inspection schedule for the equipment;  
+• attachment points are designed and certified by a qualified person; and  
+• attachment points are installed by a trained person and regularly inspected by a competent person.  
+Scope  This criteri on requires the company to develop and maintain systems for the management of fall restraint/fall arrest equipment, and to ma ke sure 
+that the equipment being used is used by formally trained persons, appropriately maintained/inspected, and attached to poin ts that are certified to 
+be adequate to sustain the potential force of a falling person.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at heights risk assessment.  
+• Controls utilised have been selected consistent with the Falls from Height Hierarchy of Control.  
+• Manufacturers’ guidelines/specifications.  
+• Permit to work.  
+• Inspection/maintenance records.  
+• Installation certification.  
+• Training records for workers.  
+ 
+H1.5  The system ensures that work  processes are instigated to prevent workin g from ladders.  
+Scope  This criterion requires the company to have a process in place to make sure that ladders are the last resort when selecting w ork platforms for 
+activities and that, if ladders are the only option for works, controls are in place to manage the risks associat ed with ladders. Platform ladders are 
+not considered ladders for the purposes of this criterion and can therefore be utilised.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at heights risk assessment.  
+• Controls utilised have been selected consistent with the Falls from Height Hierarchy of Control.  
+• Evidence of controls on site in place for the use of ladders.  
+• Permit to work.  
+• Site Rules.  
+• Site Induction.  The FSC Audit Criteria Guidelines  
+42  
+H1.6  The system ensures that there is safe access and egress for all areas where work at heights is being undertaken.  
+Scope  This criterion requires the company to have a process in place to make sure that there is  safe access/egress to/from areas where work at height is 
+being completed.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Procedure for the management of work at heights.  
+• Specific work at heights risk assessment.  
+• Permit to work.  
+ 
+H1.7  The system ensure s emergency procedures are established specific to the scope of works, including actions to be taken after an arrested fall h as 
+occurred.  
+Scope  This criterion requires the company to have a process in place for the management of emergency situations at height as well as rescue of any 
+workers who have been subjected to an arrested fall from height on the project. This means all emergency scenarios at height must be identified 
+and procedures established, not just for arrested fall.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at height risk assessment.  
+• Permit to work.  
+• Specific emergency procedures for arrested falls.  
+• Training records for workers.  
+ 
+H1.8  Other hazard related activity.  
+ The FSC Audit Criteria Guidelines  
+43 H2 Telecommunication Towers  
+H2.1  The risks associated with telecommunications towers are identified, assessed and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential risks on the project associated with 
+telecommunications towers, and implement controls consistent with the Hierarchy Of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at height risk assessment.  
+• Permit to wor k. 
+• Remote works assessment.  
+• Radiation survey.  
+• Controls utilised have been selected consistent with the Falls from Height Hierarchy of Control.  
+ 
+H2.2  The risks associated with the potential for falling objects are identified, assessed and controlled in accordance with the Hi erarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential risks on the project where objects may fall from 
+height, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific falling objects risk assessment.  
+• Exclusion zones.  The FSC Audit Criteria Guidelines  
+44 H2.3  Safe systems of work have been developed taking into account:  
+• working at height (including safe access and egress);  
+• rigging and lifting equipment (including cranage);  
+• electrical; and  
+• radiation hazards.  
+Scope  This criterion requires the company to make sure that there are safe systems of work to manage the hazards associated with working  at height and 
+electrical / radiation energy sources, including isolation processes to remove the risk and/or controls to manage wo rking near energy sources where 
+they cannot been de -energised.  
+Possible 
+Evidence  • Project or Site Risk Assessment.  
+• SWMS.  
+• Permit to work.  
+• Energy Isolation, Identification and Lockout process.  
+• Exclusion zones.  
+• Physical insulating or protective barriers.  The FSC Audit Criteria Guidelines  
+45 H2.4  Safe systems of work have been developed to ensure that where fall prevention/ fall arrest equipment is being used on site:  
+• workers have been formally trained in the use of such equipment;  
+• there is a maintenance and ins pection schedule for the equipment;  
+• attachment points are designed and certified by a qualified person; and  
+• attachment points are installed by a trained person and regularly inspected by a competent person.  
+Scope  This criterion requires the company to develop and maintain systems for the management of fall restraint/fall arrest equipment, and to make sure 
+that the equipment is used by formally trained persons, appropriately maintained/inspected, and attached to points that are c ertified to be 
+adequate t o sustain the potential force of a falling person.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at heights risk assessment.  
+• Controls utilised have been selected consistent with the Falls from Height Hierarchy of Control.  
+• Manufacturers’ g uidelines/specifications.  
+• Permit to work.  
+• Inspection/maintenance records.  
+• Installation certification.  
+• Training records for workers.  
+  The FSC Audit Criteria Guidelines  
+46  
+H2.5  The system ensures that emergency procedures are established specific to the scope of works, including actions to be taken if an arrested fall has 
+occurred and dealing with possible remote locations.  
+Scope  This criterion requires the company to have a process in place for the management of any emergency situations related to work  on 
+telecommunications towers for the project as well as rescue of any workers who have been subjected to an arrested fall from h eight. Emergency 
+procedures should take into account issues associated with working in remote locations where relevant.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific work at heights risk assessment.  
+• Permit to work.  
+• Specific emergency procedures for arrested falls including remote works consideration.  
+• Training records for workers.  
+ 
+H2.6  Other hazard related activity.  
+ 
+H3 Demolition  
+H3.1  The risks associated with demolition are identified, assessed and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify and control the potential demolition activities on the project, and 
+implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Design Risk Assessment.  
+• Project Risk Assessment.  
+• Demolition Work Plan.  
+• Building material survey/s.  
+• SWMS.  
+• Permit to work.  
+ The FSC Audit Criteria Guidelines  
+47 H3.2  The system ensures there is a Demolition Work Plan to manage the demolition activity in accordance with relevant legislation,  codes of practice 
+and Australian standards.  
+Scope  This criterion requires the company to make sure that a Demolition Work plan is developed in accordance with the legislation, Demolition Work 
+Code of Practice and relevant Australian standards, including the methodology for the demolition and means of protection for workers and public.  
+Possible 
+Evidence  • Projec t Risk Assessment.  
+• Demolition Work Plan.  
+• Building investigation / study / survey.  
+ 
+H3.3  The system ensures that the building structure, adjacent building structures, materials and demolition sequence have been con sidered prior to 
+starting the demolition.  
+Scope  This criterion requires the company to complete a documented evaluation and interrogation of the building structure and mater ials, and then 
+develop a sequence to make sure the structure is safely demolished.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Demolition Work Plan.  
+• Building investigation/study/survey.  
+• Engineering reports.  
+• Hazardous materials survey.  
+• Records of services isolation.  
+• Verification/approval process for each demolition stage.  The FSC Audit Criteria Guidelines  
+48  
+H3.4  The system ensures that hazardous chemicals and materials within the work areas have been identified, assessed and controlled  in accordance 
+with relevant legislation, codes of practice and Australian standards.  
+Scope  This criterion requires the company to make sure that the structure to be demolished is assessed to identify potentially hazardous chemicals and 
+materials that workers or public may be exposed to during the demolition, and controls are put in place to remove the risk pr ior to demolit ion. 
+Possible 
+Evidence  • Project Risk Assessment.  
+• Demolition Work Plan.  
+• Building investigation/study/survey.  
+• Hazardous materials survey.  
+• Health measurement records e.g. air sampling, material sampling etc.  
+• Removal plans/records/certificates.  
+ 
+H3.5  The system ensures that the locations of all services have been identified and documented, with relevant services isolated, d isconnected or 
+made safe by a qualified person prior to demolition.  
+Scope  This criterion requir es the company to make sure that there are safe systems of work to manage the hazards associated with electrical works where 
+electrical energy is present during the works, including isolation processes to remove the risk and controls to manage workin g near  energised 
+electrical parts where they cannot been de -energised.  
+Possible 
+Evidence  • Demolition Work Plan.  
+• Building investigation/study/survey.  
+• SWMS.  
+• Isolation, Identification and Lockout process.  
+• Permit to work.  
+• Training records.  The FSC Audit Criteria Guidelines  
+49 H3.6  The system ensures that there are controls in place to prevent falls from height, including appropriately fixed covers and gu ards on openings and 
+penetrations.   
+Scope  This criterion requires the company to make sure that the falls from height hazards associated with the demolition sequence and activities are 
+identified and controlled, including the management of open edges or penetrations within the building structure.  
+Possible 
+Evidence  • Demolition Work Plan.  
+• Project Risk Assessment.  
+• SWMS.  
+• Fixed edge protection / penetration covers.  
+• Inspection regime / records.  
+ 
+H3.7  The system ensures that there are appropriate protective structures and exclusion zones in place to control falling objects/d ebris and secure the 
+work areas.  
+Scope  This criterion requires the company to make sure that building materials are evaluated and subsequent protective structures are in stalled to protect 
+workers and public from falling objects/debris.  
+Possible 
+Evidence  • Demolition Work Plan.  
+• Project Risk Assessment.  
+• Temporary structures design plan.  
+• Protective structure suitably rated consistent to potential forces that could be imposed by part or whole of the structure sh ould it 
+collapse/fall.  
+ 
+H3.8  The system ensures that emergency procedures are establ ished specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with demolition of 
+the structure.  
+Possible 
+Evidence  • Emergency Procedure.  
+• Demolition Plan.  
+• Protective structures.  
+• Exclusion Zones.  
+ The FSC Audit Criteria Guidelines  
+50 H3.9  Other hazard related activity.  
+ 
+H4 Asbestos  
+H4.1  The risks associated with the management and removal of asbestos -containing material are identified, assessed and controlled in accordance 
+with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to ide ntify the potential asbestos -containing material on the project, 
+determine the process for the management of the asbestos -containing material, and implement controls that are consistent with the Hierarchy of 
+Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Materials Survey.  
+• Health Risk Assessment.  
+• Asbestos Register.  
+• Asbestos Management Plan.  
+• Asbestos Removal Control Plan.  
+ 
+H4.2  The system ensures there is a current Asbestos Register and Asbestos Management Plan that is readily av ailable on the site and the 
+presence/location of asbestos -containing materials is clearly indicated.  
+Scope  This criterion requires the company to make sure that the presence of asbestos is evaluated and clearly identified where it i s found, and that an 
+Asbestos Register and Asbestos Management Plan are available to all persons on the project.  
+Possible 
+Evidence  • Design Risk Assessment.  
+• Project Risk Assessment.  
+• Asbestos Register.  
+• Asbestos Management Plan.  
+• Stickers/labels indicating asbestos containing mate rial. 
+ The FSC Audit Criteria Guidelines  
+51 H4.3  The system ensures that where asbestos removal is conducted, there is an Asbestos Removal Control Plan with notifications mad e to the 
+regulator, client, workers and other affected parties.  
+Scope  This criterion requires the company to make sure that an Asb estos Removal Control Plan is developed by a trained person to manage the safe 
+removal of the asbestos -containing material, including mandatory or jurisdictional notification requirements, packaging, handling, transport and 
+disposal of the asbestos as well  as liaison with stakeholders that may be affected by the removal.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Asbestos Register.  
+• Asbestos Management Plan.  
+• Asbestos Removal Control Plan.  
+• SWMS.  
+• Permit to work.  
+• Worker decontamination procedures.  
+ 
+H4.4  The system ensures that any business and workers removing asbestos materials are qualified, licensed and formally trained in accordance with 
+the relevant legislation, codes of practice and Australian standards.  
+Scope  This criterion requires the company to make sure that all workers conducting the removal of asbestos containing material are trained, qualified and 
+licensed in accordance with the jurisdictional requirements and relevant legislation, code of practices and Australian standa rds. 
+Possi ble 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Asbestos Removal Control Plan.  
+• Training records.  The FSC Audit Criteria Guidelines  
+52 H4.5  The system ensures that air monitoring is undertaken by a qualified and licensed person independent of the removal process wi th a clearance 
+inspection certificate provided prior to the area being returned to normal use.  
+Scope  This criterion requires the company to make sure that air monitoring tests are completed during and/or following the asbestos removal in 
+accordance with jurisdictional requirements and relevant legislation, code of practices and Australian standards, including t he issue of a clearanc e 
+certificate supported by NATA certified testing regime.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Asbestos Removal Control Plan.  
+• Clearance Certificate with NATA certified test results.  
+• Monitoring report.  
+ 
+H4.6  The system ensures that health surveillance/monitoring is undertaken or verified as undertaken for workers involved in asbestos removal with 
+reporting to regulatory authorities completed in accordance with relevant legislation, codes of practice and Australian stand ards.  
+Scope  This criterion requires the company to make sure that all workers conducting asbestos removal undertake mandatory medical exa minations in 
+accordance with the jurisdictional and legislative requirements.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Health Management procedure.  
+• Health records / register issued by medical practitioner.  
+ 
+H4.7  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site-specific emergency procedures to manage potential emergencies associated with the removal of 
+asbestos -containing materials.  
+Possible 
+Evidence  • Emergency Procedure.  
+• Asbestos Removal Control Plan.  
+• Decontamination zones.  
+ 
+H4.8  Other hazard related activity.  The FSC Audit Criteria Guidelines  
+53  
+H5 Structural Alterations/Temporary Support Structures  
+H5.1  The risks associated with structural alterations, structural support systems and temporary structures are identified, assesse d and controlled in 
+accordance with the Hierarchy o f Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential structural alterations and  erection/dismantling of 
+temporary structures on the project, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Risk Assessment.  
+• Temporary works plans/permits.  
+ 
+H5.2  Safe systems of work have been developed for the:  
+• erection and dismantling of structural support systems and temporary structures;  
+• prevention of persons falling;  
+• management of potential falling objects; and  
+• management of penetrations.  
+Scope  This criterion requires the company to have a safe system of work in place to manage the erection and dismantling of structural support systems 
+and temporary structures, including potential falling persons and objects and penetrations.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Permits to work.  
+• Work at heights procedure.  
+• Handover certificates.  
+• Inspection records.  
+ The FSC Audit Criteria Guidelines  
+54 H5.3  The system ensures that structural support systems (including formwork, falsework, shoring, panel bracing, edge protection, p ropping and other 
+structural support systems) have been:  
+• desig ned by a qualified designer;  
+• detailed on up -to-date drawings/plans; and  
+• changes to the design or installed system are authorised and signed off by a qualified designer.  
+Scope  This criterion requires the company to make sure that structural support systems are designed by a qualified person, documented on 
+drawings/plans and installed as per the plan, with any changes reviewed and certified by a person with training relevant to t he type of support 
+system.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design detail from manufacturer.  
+• Installation design drawings / plans.  
+• Inspection record/handover certificate.  
+• Formwork drawings.  
+• Propping details.  
+• Wind loading details.  The FSC Audit Criteria Guidelines  
+55 H5.4  The system ensures that:  
+• a scaffold plan has been developed by a qualified person; and  
+• changes to the installation design are authorised and signed off by a qualified person; or  
+• a risk assessment has been conducted to determine the need for a Scaffold Plan.  
+Scope  This criterion requires the company to make sure that for scaffold either:  
+• a Scaffold Plan is developed where required (in accordance with relevant legislation, codes of practice and Australian standa rds) by a 
+qualified person with changes to the scaffold authorised/signed off by a q ualified person, or  
+• that a risk assessment has been undertaken to determine the need for a Scaffold Plan.  
+Possible 
+Evidence  • Scaffold Plan/drawings.  
+• Risk assessment.  
+• Inspection records.  
+• SWMS.  
+• Sign off on changes.  
+• Up to date drawings.  
+ 
+H5.5  The system ensures that the b uilding structures/materials/foundations have been assessed and controls are in place prior to starting alterations 
+to the structure or construction of temporary structures.  
+Scope  This criterion requires the company to make sure that assessments are made on the structure/material/foundation to ensure that structural 
+alterations or installation of temporary structures can be safely carried out.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Design Risk Assessment.  
+• Building Design  Plans.  
+• Temporary structure design plan.  
+• Building investigation/study/survey.  
+• Inspection records.  
+ The FSC Audit Criteria Guidelines  
+56 H5.6  The system ensures that structural support systems and temporary structures are installed by a competent person and verified as correctly 
+installed prior to use in accordance with:  
+• relevant legislation, codes of practice and Australian standards;  
+• manufacturers’ requirements; or  
+• where applicable the drawing/plan.  
+Scope  This criterion requires the company to make sure that training is provided consistent with the type of structural support system installed, including 
+certification of the installation in accordance with the drawing/plan.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Design Risk Assessment.  
+• Building Design Plans.  
+• Temporary structure design plan.  
+• Building investigation/study/survey.  
+• Inspection records.  
+ 
+H5.7  The system ensures that structural support systems and temporary structures are regularly inspected to monitor the effectiven ess of the system/ 
+structure in accordance with:  
+• relevant legislation, codes of practice and Australian standards;  
+• manufacturer’s requirements; or  
+• where applicable the drawing/plan.  
+Scope  This criterion requires the company to have a process in place to make sure that structural suppor ts in use on site are checked for effectiveness, and 
+compliance with the drawings, on a regular basis.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Building Design Plans.  
+• Temporary structure design plan.  
+• Inspection records.  The FSC Audit Criteria Guidelines  
+57 H5.8  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with structural 
+alterations and temporary structures. Issues around access to temporary structures and structural supports should be consider ed when developing 
+emergency procedures.  
+Possible 
+Evidence  • Emergency Procedure  
+ 
+H5.9  Other hazard related activity.  
+ 
+H6 Confined Space  
+H6.1   The risks associated with confined space works are identified, assessed and controlled in accordance with the Hierarchy of Co ntrol.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potenti al activities on the project associated with confined 
+spaces, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific confined space risk assessment.  
+• Permit to work.  The FSC Audit Criteria Guidelines  
+58 H6.2  Safe systems of work have been developed for confined space works including:  
+• permit controlled entry and exit process;  
+• specific confined space equipment and PPE requirements; and  
+• the nature and period of the work.  
+Scope  This criterion requires the company to have a safe system of work in place to manage confined spaces and the associated risks. Refer to AS28 65 for 
+confined space permit considerations such as isolation of services and communication between entrants and standby persons.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific confined space risk assessment.  
+• Permit to work.  
+• Training records.  
+• Monitoring equipment/records.  
+ 
+H6.3  The system ensures that entrant/s and standby persons are formally trained in accordance with relevant legislation, codes of practice and 
+Australian standards.  
+Scope  This criterion requires the company to make sure that workers who work in and around confined spaces are trained in accordanc e with legislative 
+and company requirements.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific confined space risk assessment.  
+• Permit to work.  
+• Training records.  The FSC Audit Criteria Guidelines  
+59  
+H6.4  The system ensures that:  
+• monitoring of air quality levels is undertaken prior to entry and at regular intervals;  
+• results of monitoring are recorded; and  
+• gas detection equipment is calibrated with records maintained.  
+Scope  This criterion requires the company to have a system in place to manage the measurement and evaluation of the air quality within confined spaces.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific confined space risk assessment.  
+• Permit to work.  
+• Training records.  
+• Monitoring equipment/records.  
+ 
+H6.5  The system ensures that emergency procedures are established and practised with relevant workers specific to the confined spa ce. 
+Scope  This criterion requires the company to have a process in place for potential emergencies when working in and around confined spaces.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Emergency procedures.  
+• Specific confined space risk assessment.  
+• Drill records.  
+ 
+H6.6  Other hazard related activity.  
+ The FSC Audit Criteria Guidelines  
+60 H7 Excavation  
+H7.1  The risks associated with the excavation are identified, assessed and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activiti es on the project associated with 
+excavations, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Risk Assessment.  
+• Specific excavation risk assessment.  
+• Permit to work.  
+• Geotechnical report.  
+ 
+H7.2  The system ensures that the risks associated with adjacent building structures/materials/foundations have been identified, assessed and 
+controlled.  
+Scope  This criterion requires the company to have a process in place to manage the risks associated with digging in and around structures and adjacent 
+areas.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific excavation risk assessment.  
+• Permit to work.  
+• Hazardous material reports.  
+• Engineer reports report.  The FSC Audit Criteria Guidelines  
+61 H7.3  Safe systems of work have been developed for all above ground and underground services taking into account:  
+• identification and location of services;  
+• management of works adjacent to services; and  
+• any necessary liaison with the asset owner.  
+Scope  This criterion requires the company to make sure that all services are identified and located if required, and asset owner re quirements are adhered 
+to including encroachment distances, permits and training requirements.  
+Possible 
+Eviden ce • Project Risk Assessment.  
+• SWMS.  
+• Services drawing / location.  
+• Identification of services.  
+• Asset Owner requirements.  
+• Permit system.  
+• Training record.  
+ 
+H7.4  The system ensures there is a drawing/plan/permit for the excavation detailing the nature of the works to be undertaken and the method used 
+to prevent ground collapse.  
+Scope  This criterion requires the company to make sure that the excavation has an appropriate drawing/plan/permit for the works, an d that the 
+excavation on site is consistent with the drawing/plan/permit and have a system in place to make sure that excavation support methods are in place 
+to control the risk of collapse.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Drawing/plan/permit.  
+• Engineer reports.  
+• Design risk assessment.  
+• Permit system.  The FSC Audit Criteria Guidelines  
+62  
+H7.5  The system ensures that where shoring systems or other documented methods are utilised, they are:  
+• designed by a qualified engineer;  
+• detailed on up -to-date drawings/plans;  
+• installed by competent  persons and veri fied as correctly installed prior to use in accordance with the drawing/plan; and  
+• authorised and signed off by a qualified engineer where changes to the design or installed system are made.  
+Scope  This criterion requires the company to have a system in place to make sure that any excavation support structures are designe d and approved by a 
+qualified engineer, and that they are checked before use. Other documented method means any method of controlli ng trench collapse other than 
+benching and battering, and includes (but is not limited to) such methods as hydraulic shoring, sheet piling, steel shoring/t rench lining, sheeting, 
+ground anchors etc. and the documented advice from a geotechnical engineer.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Engineer reports/certification.  
+• Design risk assessment.  
+• Permit system.  
+• Handover certificate.  
+• Inspection records.  
+ 
+H7.6  The system ensures that the excavation is regularly inspected by a competent person to monitor the effectiveness  of controls  in accordance with 
+the drawing/plan/permit.  
+Scope  This criterion requires the company to have a system in place to make sure that the controls in place for the excavation are effective, and are in 
+accordance with the drawing/plan/permit.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Engineer reports.  
+• Design risk assessment.  
+• Drawing/plan/permit.  
+• Inspection records.  
+ The FSC Audit Criteria Guidelines  
+63 H7.7  The system ensures that any potential falls into the excavation have been controlled.  
+Scope  This criterion requires the company to have a system in place to manage the risks associated with potential falls into the ex cavation.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Excavation procedure.  
+• Permit system.  
+• Inspection records.  
+ 
+H7.8  The system ensures that mobile plant working in and around the excavation has been controlled.  
+Scope  This criterion requires the company to have a system in place to manage the risks associated with mobile plant operating in and around the 
+excavation.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Engineer reports.  
+• Permit system.  
+ 
+H7.9  The system ensures that emergency procedures are established for the excavation.  
+Scope  This criterion requires the company to have a process in place for potential emergencies when working in and around excavatio ns. 
+Possible 
+Evidence  • Project Risk Assessment.  
+• Emergency procedures.  
+• Specific excavation risk assessment.  
+• Drill records.  The FSC Audit Criteria Guidelines  
+64  
+H7.10  Other hazard related activity.  
+ 
+H8 Tunnels  
+H8.1  The risks associated with the tunnel/s are identified, assessed  and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project associated with 
+tunnels/tunnelling, and implement controls cons istent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Risk Assessment.  
+• Specific tunnel risk assessment.  
+• Engineering reports.  
+• Design plan.  The FSC Audit Criteria Guidelines  
+65 H8.2  The system ensures that there is an engineered Structural Design Plan for the tunnel, including:  
+• excavation methods and geological review of ground conditions;  
+• tunnel dimensions and allowable tolerances;  
+• ground supports during excavation and construction;  
+• ventilation; and  
+• final ground support and lining requirements.  
+Scope  This criterion requires the company to have a system in place to make sure that all structural aspects of the tunnel construc tion process are 
+managed, and that the methods are collated into a Structural Design Plan (or similar).  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Design Risk Assessment.  
+• Specific tunnel risk assessment.  
+• Engineering reports.  
+• Plant risk assessment.  
+• Design plan.  The FSC Audit Criteria Guidelines  
+66 H8.3  Safe systems of work have been developed taking into account:  
+• tunnelling method/s to be used;  
+• potential worker health hazards;  
+• method/s for prevention of collapse; and  
+• all plant (including specialist tunnelling plant) working in and around the tunnel.  
+Scope  This criterion requires the company to have a system in place to manage the risks to workers while constructing the tunnel, i ncluding the tunnel 
+structural support system and the plant to be used. Potential worker health hazards should consi der biological, physical and chemical/atmospheric 
+contaminants.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Risk Assessment.  
+• Specific tunnel risk assessment.  
+• Engineering reports.  
+• Design plan.  
+• Health risk assessment/records.  
+• Plant risk assessment.  The FSC Audit Criteria Guidelines  
+67  
+H8.4  The system ensures that an air quality and ventilation system is in place to control exposure to:  
+• excessive heat;  
+• fumes, substances or atmospheric contaminants; and  
+• oxygen depletion.  
+Scope  This criterion requires the company to have a system in place to manage the air quality and temperature for workers within the tunnel in 
+accordance with exposure standards and health guidelines.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Risk Assessment.  
+• Specific tunnel risk assessment.  
+• Engineering reports.  
+• Design plan.  
+• Health risk assessment/records.  
+• Plant risk assessment.  
+ 
+H8.5  The system ensures that the tunnel/s is regularly inspected to monitor the effectiveness  of controls  in accordance with the drawing/plan.  
+Scope  This criterion requires the company to have a system in place to monitor the effectiveness of the controls in place for the r isks associated with the 
+tunnel, and whether the drawings/plan are being followed.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Risk Assessment.  
+• Specific tunnel risk assessment.  
+• Engineering reports.  
+• Design plan.  
+• Inspection records.  
+ The FSC Audit Criteria Guidelines  
+68 H8.6  The system ensures that emergency procedures are established (in consultation with local authorities) and practised with relevant workers 
+specific to the tunnel/s.  
+Scope  This criterion requires the company to have a process in place for potential emergencies when working in and around tunnels, including 
+collaboration with local emergency agencies.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Emergency procedures.  
+• Specific tunnel emergency risk assessment.  
+• Drill records.  
+ 
+H8.7  Other hazard related activity.  
+ 
+H9 Explosives  
+H9.1  The risks associated with the use of explosives are identified, assessed, and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project associated with explosives,  
+and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Explosives/Blast Risk Assessment.  
+• Permit to work.  
+• Design risk assessment.  
+• Geotechnical report.  The FSC Audit Criteria Guidelines  
+69 H9.2  The system ensures there is a Blast Management Plan incorporating Blast Design, developed in accordance with relevant legislation, codes  of 
+practice and Australian standards.  
+Scope  This criterion requires the company to have a system in place to make sure that a Blast Management Plan is in place that consider the blast design 
+and legal and other requirements.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Explosives/Blast risk assessment.  
+• Design Risk Assessment.  
+• Plan/drawings.  
+• Permit to work.  
+• Geotechnical report.  
+• Training records.  
+ 
+H9.3  Safe systems of work have been developed taking into account:  
+• delivery, storage and security of explosives;  
+• drilling and placement of explosives; and  
+• loading and firing of explosives.  
+Scope  This criterion requires the company to have a safe system of work in place to manage the risks associated with the use of explosives on site.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Blast Management Plan.  
+• Explosives/Blast risk assessment.  
+• Design Risk Assessment.  
+• Hazardous C hemical risk assessment.  
+• Plan/drawings.  
+• Permit to work.  
+• Geotechnical report.  
+• Training records.  The FSC Audit Criteria Guidelines  
+70 H9.4  The system ensures that the handling and use of explosives is carried out by qualified and licensed  persons.  
+Scope  This criterion requires the company to have a system in place to make sure that workers handling and using explosives have require d qualifications 
+and licences.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Blast Management Plan.  
+• Explosives/Blast risk asses sment.  
+• Hazardous Chemical risk assessment.  
+• Permit to work.  
+• Training records.  
+ 
+H9.5  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to have a process in place for potential emergencies when working with and around explosives.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Emergency procedures.  
+• Blast Management Plan.  
+• Specific explosives emergency risk assessment.  
+• Drill records.  
+ 
+H9.6  Other hazard related activity.  
+ The FSC Audit Criteria Guidelines  
+71 H10 Pressurised Gas  
+H10.1  The risks associated with pressurised gas are identified, assessed, and controlled in accordance with the Hierarchy of Contro l. 
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where works are 
+undertaken on pressurised gas lines, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Specific Risk Assessment for pressurised gas.  
+• Permit to work / Asset owner approval.  
+ 
+H10.2  Safe systems of work have been developed taking into account:  
+• properties, storage, handling and use of the gas;  
+• potential atmospheric conditions and contaminants;  
+• methods to prevent uncontrolled gas release, ignition, or adverse reaction; and  
+• qualifications/licences/permits required to undertake the work.  
+Scope  This criterion requires the company to make sure that there are safe systems of work to manage the hazards associated with the typ e/nature of the 
+pressurised gas, atmospheric conditions, and isolation / permit to work processes.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Chemical Risk Assessment.  
+• SDS for the gas.  
+• Permit to work/Asset owner approvals.  
+• Service location plans/drawings.  
+• Training records.  The FSC Audit Criteria Guidelines  
+72 H10.3  The system ensures that the locations of all gas services have been identified and documented, with the relevant services disconnected, isolated 
+or otherwise controlled by a trained person prior to working on or near pressurised gas pipelines.  
+Scope  This criterion requires the company to identify all ga s services within the project and make sure that controls are in place to manage the works on or 
+near the pressurised gas service, including the use of trained persons to conduct isolations / permit to work operations.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Isolation/service protection process.  
+• Permit to work/Asset owner approvals.  
+• Service location plans/drawings.  
+• SWMS.  
+• Training records.  The FSC Audit Criteria Guidelines  
+73  
+H10.4  The system ensures that emergency procedures are established specific to the scope  of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage the potential unplanned release, ignition or reaction 
+of the pressurised gas relevant to the scope of works being undertaken.  
+Possible 
+Evidence  • Emergency procedure  for pressurised gas release/ignition/contact.  
+• Training records.  
+ 
+H10.5  Other hazard related activity.  
+ 
+H11 Chemical, Fuel or Refrigerant Lines  
+H11.1  The risks associated with chemical, fuel or refrigerant are identified, assessed and controlled in accordance with the Hierar chy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where works are 
+undertaken on chemical, fuel or refrigerant lines, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Chemical Risk Assessment.  
+• SDS for the gas.  
+• Permit to work/Asset owner approvals.  
+• Plans/drawings.  
+• Training records.  The FSC Audit Criteria Guidelines  
+74  
+H11.2  Safe systems of work have been developed taking into account:  
+• properties and handling of the chemical/fuel/refrigerant;  
+• methods to prevent uncontrolled release, ignition, or adverse reaction of chemical/fuel/refrigerants; and  
+• qualifications/licences/permit s required to undertake the work.  
+Scope  This criterion requires the company to make sure that there are safe systems of work to manage the hazards associated with th e type/nature of the 
+Chemical, Fuel or Refrigerant Line, atmospheric conditions associated  with the works, and isolation/permit to work processes.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• SDS for the Chemical, Fuel or Refrigerant.  
+• Hazardous Chemical Risk Assessment.  
+• Permit to work/Asset owner approvals.  
+• Physical isolation and lockout.  
+• Plans/drawings.  
+• Training records.  
+ 
+H11.3  The system ensures that the locations of all services are identified and documented with the relevant services disconnected, isolated or 
+otherwise controlled prior to working on or near chemical/fuel/refrigerant lines.  
+Scope  This criterion requires the co mpany to identify all gas services within the project and make sure that controls are in place to manage the works on or 
+near the Chemical, Fuel or Refrigerant Line, including the use of trained persons to conduct isolations/permit to work operat ions.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Isolation/service protection process.  
+• Permit to work/Asset owner approvals.  
+• Service location plans/drawings.  
+• Training records.  The FSC Audit Criteria Guidelines  
+75  
+H11.4  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage the potential unplanned release, ignition or reaction 
+of the chemical, fuel or refrigerant relevant to the scope of works being undertaken.  
+Possible 
+Evidence  • Emergency procedure for chemical, fuel or refrigerant release/ignition/contact.  
+• Training records.  
+ 
+H11. 5 Other hazard related activity.  
+ 
+H12 Electrical  
+H12.1  The risks associated with electrical installations and electrical equipment are identified, assessed and controlled in accord ance with the Hierarchy 
+of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where works are 
+undertaken on electrical installations or using electrical equipment, and implement controls consistent with the Hierarchy of  Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Permit  to work.  
+• Plans/drawings.  The FSC Audit Criteria Guidelines  
+76 H12.2  Safe systems of work have been developed taking into account:  
+• an isolation/de -energisation/re -energisation process;  
+• lockout and tagout of electrical isolations; and  
+• working near energised electrical parts.  
+Scope  This criterion requires the company to make sure that there are safe systems of work to manage the hazards associated with el ectricity, including 
+controls to manage energised electrical parts.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Identification, Isolation, Test and Lockout process.  
+• Permit to work.  
+• Re-energisation process.  
+• Physical protective barriers.  
+• PPE.  
+ 
+H12.3  The system ensures that RCD protection is provided on portable generators and all wiring used for  construction work, with construction wiring 
+clearly marked . 
+Scope  This criterion requires the company to make sure that residual current devices are installe d on all electrical systems to protect workers from 
+electrical contact.  All electrical supplies used for the purpose of construction works must have RCD protection installed or utilised ; that is, temporary 
+installations must have fixed RCD protection and other electrical systems utilised must incorporate RCD protection systems . 
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Electrical procedures.  
+• Certificate of electrical compliance/safety as per each jurisdictional requirement.  
+• Electrical switchboard checklist.  The FSC Audit Criteria Guidelines  
+77 H12.4  The system ensures that testing and tagging of electrical equipment and RCDs is completed in accordance with relevant legisla tion, codes of 
+practice and Australian standards.  
+Scope  This criterion requires the company to make sure that all electrical equipment and RCDs is tested and tagged as per the legis lation, with records of 
+the test and results maintained for all items of equipment.  
+Possible 
+Evidence  • Project Risk Assessmen t. 
+• SWMS.  
+• Electrical procedures.  
+• Electrical register.  
+• Tag on electrical equipment/RCDs.  
+ 
+H12.5  The system ensures that electrical systems installed for use during construction works are inspected and certified as correctly installed prior to 
+use in accordance with relevant legislation, codes of practice and Australian standards.  
+Scope  This criterion requires the company to make sure that electrical wiring installed for use as constr uction wiring is tested in accordance with the 
+legislation and Australian standards prior to energisation and before use by workers.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Certificate of electrical compliance/safety as per each jurisdictional requirement.  
+• Electrical switchboard checklist.  
+ 
+H12.6  The system ensures that electrical works are undertaken by qualified and licensed persons.  
+Scope  This criterion requires the company to ensure the persons working to install, modify, test or certify electrical installations are trained in accordance 
+with the both the type of work being undertaken and the jurisdictional requirements.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Electrical trade training.  
+• Vocational training  for the works e.g. Testing and Tagging.  
+ The FSC Audit Criteria Guidelines  
+78 H12.7  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential electrical fault/contact/explosion relevant 
+to the scope of works being undertaken, including the safe rescue of persons if working near live parts.  
+Possible 
+Evidence  • Emergency procedure.  
+• Emergency isolation processes.  
+• Electrical plan indicating isolation points.  
+• Low Voltage Rescue training.  The FSC Audit Criteria Guidelines  
+79  
+H12.8  Other hazard related activity.  
+ 
+H13 Contaminated / Flammable Atmosphere  
+H13.1  The risks associated with potential contaminated/flammable atmospheres are identified, assessed and controlled in accordance with the 
+Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the pote ntial activities on the project where works are 
+undertaken within potential contaminated or flammable atmospheres, and implement controls consistent with the Hierarchy of Co ntrol.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Chemical Risk Assessment.  
+• SDS.  
+• Air monitoring records.  The FSC Audit Criteria Guidelines  
+80  
+H13.2  Safe systems of work have been developed taking into account:  
+• air quality and ventilation needs including PPE requirements;  
+• the nature of the work;  
+• the duration of the exposure; and   
+• the number of workers exposed.  
+Scope  This criterion requires the company to make sure that there are safe systems of work to manage the hazards associated with wo rking in a 
+contaminated/flammable atmosphere, including management of air quality and exposure of the workers to the dangers associated with the works.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Chemical Risk Assessment.  
+• Air monitoring systems/records.  
+• Ventilation systems.  
+• Permit to Work.  
+• PPE.  
+ 
+H13.3  Safe systems of work have been developed for flammable atmosphere taking into account:  
+• storage of flammable substances;  
+• ignition source control including static electricity;  
+• hot work management; and  
+• training of workers.  
+Scope  This criterion requires the company to make sure that there are safe systems of work, and relevant personnel are trained in these systems, t o 
+manage the hazards associated with working in a contaminated/flammable atmosphere. This includes management of possible sourc es of ignition 
+(storage of flammable substances, hot work management, static electricity and others).  The FSC Audit Criteria Guidelines  
+81 H13.3  Safe systems of work have been developed for flammable atmosphere taking into account:  
+• storage of flammable substances;  
+• ignition source control including static electricity;  
+• hot work management; and  
+• training of workers.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Hot Works process.  
+• Hazardous Chemical Risk Assessment.  
+• Permit to Work.  
+• Training records/toolbox talk records.  
+ 
+H13.4  The system ensures that potential exposure levels are:  
+• identified;  
+• within acceptable limits, in accordance with relevant legislation, codes of practice and Australian standards; and  
+• the atmosphere is continually monitored for changes in atmospheric c ontamination.  
+Scope  This criterion requires the company to identify and measure the potential contaminant/flammable chemical to determine the exp osure levels in 
+accordance with the relevant workplace exposure standards and sampling techniques.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Chemical Risk Assessment.  
+• SDS.  
+• Exposure limits are measured and evaluated against workplace exposure standards.  
+• PPE.  The FSC Audit Criteria Guidelines  
+82  
+H13.5  The system ensures there is an inspection program for the maintenance and testing of fire protection systems and equipment.  
+Scope  This criterion requires the company to identify and measure the potential contaminant/flammable chemical to determine the exp osure levels in 
+accordance with the releva nt workplace exposure standards and sampling techniques.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Hazardous Chemical Risk Assessment.  
+• SDS.  
+• Exposure limits are measured and evaluated against workplace exposure standards.  
+• PPE.  
+ 
+H13.6  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with the 
+contaminated/flammable atmosphere, including fire, explosion, over -exposure and poisoning.  
+Possible 
+Evidence  • Emergency procedures.  
+• First aid procedures.  
+• Rescue procedures/training .  
+ 
+H13.7  Other hazard related activity.  
+ The FSC Audit Criteria Guidelines  
+83 H14 Tilt-up / Precast Concrete  
+H14.1  The risks associated with Tilt -Up/Precast Concrete works have been identified, assessed and controlled in accordance with the Hierarchy of 
+Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where works are 
+undertaken to manufacture and/or install Tilt -Up or Precast concrete components, and to implement controls consistent with the Hierarchy of 
+Control.  
+Possible 
+Evidence  • Projec t Risk Assessment.  
+• SWMS.  
+• Design Plan.  
+• Panel design certification.  
+ 
+H14.2  The system ensures there is a Design Plan prepared and certified by a qualified engineer for the:  
+• design and construction of all panels including individual identifiers for each panel;  
+• lifting points and panel placement;  
+• erection requirements including b racing of the panels and details of any anchorage design; and  
+• regular inspection requirements for panels, lifting points, and bracing prior to, during and after installation.  
+Scope  This criterion requires the company to make sure that a documented Design Plan is developed to manage the design, construction and installation 
+of Tilt -Up or Precast panels.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Tilt-Up or Precast Design Plan.  
+• Certification of Panels.  
+• Inspections of Panel Arrangements.  
+• Lifting study/plan.  
+• Bracing plan/drawings.  
+• Panel erection drawings.  
+• Architectural notes.  The FSC Audit Criteria Guidelines  
+84  
+H14.3  Safe systems of work have been developed taking into account the method of:  
+• protection of workers under and around the Tilt -Up/Precast panels;  
+• prevention of persons falling from height;  
+• unloading and slinging panels; and  
+• cranage requirements for erecting panels into position.  
+Scope  This criterion requires the company to make sure  that there are safe systems of work to manage the works associated with the cranage and 
+installation of the Tilt -Up or Precast panels, including management of the risk of panel failure, wind, falls and falling objects.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Design Plan.  
+• Lifting study/plan.  
+• Exclusion zones.  
+• Certification of panels.  
+• Lifting equipment inspection/certification.  
+• Wind loading calculations.  
+ 
+H14.4  The system ensures that controls are established for the protection of bracing and panels from damage from mobile plant and other site activity.  
+Scope  This criterion requires the company to make sure that Tilt -Up or Precast Panel bracing is protected from damage by mobile plant or construction 
+works.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Bracing plan/drawings.  
+• Exclusion zones.  
+• Physical protection systems.  
+• Locking pins on panel bracing.  The FSC Audit Criteria Guidelines  
+85  
+H14.5  The system ensures that Tilt -Up/Precast panels are verified as installed and regularly inspected  in accordance with the Design Plan.  
+Scope  This criterion requires the company to make sure the panels are installed in accordance with the Design Plan, and that there are regular inspections 
+until the temporary bracing is able to be removed.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Installation  verification to Design Plan.  
+• Bracing plan/drawings.  
+• Inspection records.  
+ 
+H14.6  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with the 
+construction and installation of Tilt -Up or Precast Panels.  
+Possible 
+Evidence  • Emergency Procedures.  
+• Design Plan.  
+• Wind loading measurements.  
+• Exclusion Zones.  
+ 
+H14.7  Other hazard related activity.  
+ The FSC Audit Criteria Guidelines  
+86 H15 Traffic  
+H15.1  The risks associated with traffic have been identified, assessed and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project  HIRAC process to identify the potential activities on the project where traffic management 
+works are undertaken, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS for works that include the high -risk activities.  
+• Controls are applied with due consideration of the Hierarchy of Control.  
+ 
+H15.2  The system ensures there is a Traffic Management Plan prepared by a qualified and licensed person that:  
+• is in accordance with the relevant legislation, codes of practice, Australian standards, or other requirements;  
+• includes location specific traffic control plans;  
+• details the methodology for implementing and dismantling traffic control devices; and  
+• is appr oved as required by the relevant authority prior to implementation.  
+Scope  This criterion requires the company to make sure that a Traffic Management Plan is developed in accordance with the Australia n standards and local 
+authority requirements, including the process to safely install and remove the traffic control devices.  
+Possible 
+Evidence  • Traffic Management Plan.  
+• Training records.  
+• SWMS/methodology for installing and removing traffic control devices.  
+ 
+H15.3  The system ensures that traffic management is implemented in accordance with the Traffic Management Plan.  
+Scope  This criterion requires the company to make sure that traffic management is installed and verified as being consistent with t he approved Traffic 
+Management Plan.  
+Possible 
+Evidence  • Traffic control inspection/validation with TMP.  
+• Ongoing monitoring or inspection records.  
+• Traffic Control Plan.  The FSC Audit Criteria Guidelines  
+87  
+H15.4  The system ensures that workers responsible for implementing traffic management are qualified and licensed.  
+Scope  This criterion requires the company to make sure that workers installing or using traffic control devices are trained in acco rdance with the 
+jurisdictional requirements.  
+Possible 
+Evidence  • Training records.  
+• SWMS.  
+• Training register.  
+ 
+H15.5  The system ensures that traffic management is regularly monitored for tampering/vandalism, and is reviewed for adequacy as the pr oject 
+develops.  
+Scope  This criterion requires the company to make sure that regular inspections are carried out to make sure that the traffic control devices are in 
+accordance with the Traffic Management Plan or Traffic Control Plan.  
+Possible 
+Evidence  •  Inspection/audit record.  
+ 
+H15.6  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with traffic 
+management.  
+Possible 
+Evidence  • Emergency procedure.  
+• Traffic Management Plan.  
+ 
+H15.7  Other hazard related activity.  The FSC Audit Criteria Guidelines  
+88 H16 Mobile Plant  
+H16.1  The risks associated with the use of mobile plant are identified, assessed and controlled in accordance with the Hierarchy of  Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project relating to the operation of 
+mobile plant, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Plant management procedu re. 
+• Plant induction processes.  
+ 
+H16.2  The system ensures that a Plant Risk Assessment is carried out on all items of plant prior to use on -site.  
+Scope  This criterion requires the company to make sure that a documented plant hazard/risk assessment is completed for all plant prior to use as per the 
+Managing the Risk of Plant in the Workplace Code of Practice.  A plant risk assessment is used to identify and manage risks associated with an item 
+of plant.  A SWMS is not a plant risk assessment  and operator controls for the safe use of plant will not meet this criterion.  
+ 
+The following considerations should be taken into account as part of the plant risk assessment process:  
+• Hazard identification that considers all the activities that may be carried out during the life of the plant at the workplace, such as: transport, 
+installation, commissioning, operation, inspection, maintenance, repair, storage and dismantling.  
+• Controls that consider the hierarchy of risk controls and consider safety features associated with the plant such as warning d evices, ROPS, 
+FOPS, guarding, edge protection, noise attenuation, hose burst protection valves, operational controls, emergency stops etc.  
+• Limitations on the use of plant may be required due to a lack of suitable plant controls . 
+• The condition of the contr ol measures should be reviewed during a risk assessment to ensure they continue to protect workers and other s 
+from hazards associated with the plant.  
+Any controls identified in the plant risk assessment must be implemented on site, and incorporated into an y associated site documentation and safe 
+operation of plant procedures . 
+Possible 
+Evidence  • Plant specific risk assessment.  
+• Process for checking that plant risk assessments have been undertaken.  
+ 
+ The FSC Audit Criteria Guidelines  
+89 H16.3  Safe systems of work are established for the operation of mobile plant taking into account:  
+• the Original Equipment Manufacturers manual;  
+• outcomes from the plant risk assessment;  
+• site specific requirements; and  
+• the need for ROPS and FOPS.  
+Scope  This criterion requires the company to make sure that a safe system of work is in place to manage mobile plant that takes into acc ount the 
+manufacturers’ operational requirements, issues identified in the plant risk assessment, and risks associated with the nat ure of the plant and its 
+operation on the project.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Plant Risk Assessment.  
+• Manufacturers’ manual.  
+• Plant procedure.  
+• Plant induction.  
+• Inspections and maintenance.  The FSC Audit Criteria Guidelines  
+90 H16.4  Safe systems of work have been developed for all above ground and underground services taking into account:  
+• identification and location of services;  
+• management of works adjacent to services; and;  
+• any necessary liaison with the asset owner.  
+Scope  This cri terion requires the company to make sure that all services are identified and located if required, and asset owner requiremen ts are adhered 
+to, including encroachment distances, permits and training requirements.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Services drawing/location.  
+• Identification of services.  
+• Asset Owner requirements.  
+• Permit system.  
+• Training record.  
+ 
+H16.5  Safe systems of work have been developed for the use of mobile cranes taking into account:  
+• ground conditions;  
+• development of lift plans in accordance with relevant legislation, codes of practice and Australian standards; and  
+• lifting of materials and workers.  
+Scope  This criterion requires the company to make sure that a safe system of work is in place to manage mobile cranes taking into account ground 
+conditions, development of lift plans and lifting of materials and workers.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Lift Plan.  
+• Plant procedure.  
+• Plant induction.  
+• Safe working load markings.  
+• Certification of lifting equipment and work boxes.  The FSC Audit Criteria Guidelines  
+91  
+H16.6  The system ensures there is an inspection and maintenance program for rigging and lifting equipment.  
+Scope  This criterion requires the company to make sure that all required inspection and maintenance of rigging and lifting equipment is scheduled and 
+carried out in accordance with manufacturers’ and relevant legislation, codes of practice and Australian standards.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Manufacturers’ Manuals.  
+• Plant induction process.  
+• Inspection schedule.  
+• Inspection records.  
+• Equipment maintenance records.  
+ 
+H16.7  The system ensures that movement of plant and vehicles on -site is controlled.  
+Scope  This criterion requires the company to make sure that plant movement on the project is assessed and managed in accordance with the Managing 
+the Risk of Plant in the Workplace Code of Practice.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Plant movement plan.  
+• Plant/worker interac tion procedure.  
+• Exclusion zones.  
+• Warning devices.  The FSC Audit Criteria Guidelines  
+92  
+H16.8  The system ensures that all workers operating mobile plant are licensed , trained or competent.  
+Scope  This criterion requires the company to make sure that there is a system in place to define the competency requirements for plant operators 
+including any high -risk license to operate the specific item of plant. A combination of licences, formal training through an RTO and a verificat ion of 
+competency process may be requi red to operate some pieces of plant.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Current or previous high -risk licence.  
+• Defined competency requirements.  
+• Training register/record.  
+• Training needs analysis.  
+ 
+H16.9  The system ensures there is an inspection program that is specific to the needs of the type of mobile plant, taking into account:  
+• regulatory inspections and registration;  
+• manufacturers’ inspection requirements;  
+• pre-start inspections; and  
+• commissioning prior to use on  site.  
+Scope  This criterion requires the company to make sure that the plant is inspected at defined frequencies in accordance with the ma nufacturer and 
+legislative requirements, with commissioning inspections completed prior to use on the project.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Manufacturers’ Manuals.  
+• Plant induction process.  
+• Pre-start inspection.  
+• Inspection schedule.  
+• Inspection records.  The FSC Audit Criteria Guidelines  
+93  
+H16.10  The system ensures that there is a process for the ongoing maintenance of mobile plant.  
+Scope  This criterion requires the company to make sure that all required maintenance is scheduled and carried out on plant in accor dance with the 
+manufacturers’ requirements and relevant legislation, codes of practice and Australian standards.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Plant maintenance records.  
+• Plant Register.  
+• Log of hours/maintenance frequencies.  
+ 
+H16.11  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with plant and 
+plant operation on the project.  
+Possible 
+Evidence  • Emergency procedure.  
+• Plant -specific emergency requirements.  
+ 
+H16.1 2 Other hazard related activity.  
+ 
+H17 Artificial Extremes of Temperature  
+H17.1  The risks associated with artificial extremes of temperature are identified, assessed and controlled in accordance with the H ierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential acti vities on the project where artificial extremes of 
+temperature are present, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Controls are applied with due consideration of the Hierarchy of Control.  The FSC Audit Criteria Guidelines  
+94  
+H17.2  Safe systems of work have been developed taking into account the typical ambient conditions including:  
+• the nature of the work;  
+• environmental conditions at the time of work; and  
+• any PPE, shelter, amenities  or other equipment specific to the risks identified.  
+Scope  This criterion requires the company to make sure that there are safe systems of work developed to manage works in artificial extremes of 
+temperature, including evaluation of the type of works being undertaken and the impact that the conditions will have on workers undertaking the 
+works.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Monitoring of environmental conditions.  
+• SWMS.  
+• Fatigue management strategy/process.  
+ 
+H17.3  Safe systems of work have been developed taking into account potential exposure levels including:  
+• methods of measurement;  
+• the nature of the work;  
+• the duration of the exposure; and  
+• the number of workers exposed.  
+Scope  This criterion requires the company to identify and measure the extremes of temperature to determine the exposure levels in accordance with the 
+relevant workplace exposure standards and sampling techniques.  
+Possible 
+Evidence  • Temperature range is identified.  
+• Exposure limits are measu red and evaluated against workplace exposure standards.  
+• Project Risk Assessment.  The FSC Audit Criteria Guidelines  
+95  
+H17.4  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with the extremes 
+of temperature on the project.  
+Possible 
+Evidence  • Emergency procedure.  
+• Environmental monitoring.  
+• Alarm systems.  
+ 
+H17.5  Other hazard related activity.  
+ 
+H18 Diving  
+H18.1  The risks associated with diving works are identified, assessed and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where diving works are 
+undertaken, and implement controls consistent with the Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS for works that include the high -risk activities.  
+• Controls are applied with due consideration of the Hierarchy of Control.  The FSC Audit Criteria Guidelines  
+96  
+H18.2  Safe systems of work have been developed taking into account:  
+• qualification and fitness of divers as aligned to the scope of works;  
+• the diving equipment and breathing gas used;  
+• depth and duration of the dive;  
+• decompression schedule; and  
+• tools to be used.  
+Scope  This criterion requires the company to make sure that safe systems of work are developed to manage the diving operations and required 
+equipment, including confirmation of the capability of divers.  
+Possible 
+Evidence  • Dive Plan.  
+• Training records.  
+• Fitness assessment/Pre -employment medical record.  
+• Dive equip ment register/test records.  
+ 
+H18.3  The system ensures continual monitoring of associated hazards e.g. water conditions, tides and weather.  
+Scope  This criterion requires the company to make sure that hazards associated that may affect the diving operations are monitored and managed.  
+Possible 
+Evidence  • Dive Plan.  
+• Weather alerts.  
+• Liaison with marine authorities.  The FSC Audit Criteria Guidelines  
+97  
+H18.4  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with the diving 
+operations.  
+Possible 
+Evidence  • Emergency procedure.  
+• Weather monitoring.  
+• Weather alert systems.  
+• Marine authority alerts/liaison.  
+ 
+H18.5  Other hazard related activity.  
+ 
+H19 Construction Work In, Over or Adjacent to Water / Liquids Where Risk of Drowning  
+H19.1  The risks associated with construction work in, over or adjacent to water/liquids where there is a  risk of drowning have been identified, assessed 
+and controlled in accordance with the Hierarchy of Control.  
+Scope  This criterion requires the company to utilise the project HIRAC process to identify the potential activities on the project where works are 
+undertaken in, over or adjacent to water/liquids where there is a risk of drowning, and implement controls consistent with th e Hierarchy of Control.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• SWMS.  
+• Controls are applied with due consideration of the Hierarchy of Control.  
+ The FSC Audit Criteria Guidelines  
+98 H19.2  Safe systems of work have been developed taking into account the:  
+• nature of the work;  
+• use and inspection of buoyancy vests/personal floatation devices or other emergency equipment;  
+• communication and supervisory measures;  
+• fall prevention measures; and  
+• training of workers.  
+Scope  This criterion requires the company to make sure there are safe systems of work to manage project works in, over or around wa ter or liquids to 
+prevent drowning.  
+Possible 
+Evidence  • Project Risk Assessment.  
+• Use of PFD 1 or 2.  
+• Exclusion or restricted zones.  
+ 
+H19.3  The system ensures continual monitoring of associated hazards e.g. water conditions, tides and weather.  
+Scope  This criterion requires the company to make sure that hazards associated with the water/liquids are monitored for any change.  
+Possible 
+Evidence  • Monitoring records.  
+• Inspection records.  
+ 
+H19.4  The system ensures that emergency procedures are established specific to the scope of works.  
+Scope  This criterion requires the company to develop site -specific emergency procedures to manage potential emergencies associated with the works in, 
+over or next to water/liquids.  
+Possible 
+Evidence  • Emergency procedure.  
+• PFD Type 1 or 2.  
+• Rescue procedure.  
+• Emergency equipment on stand -by. 
+ The FSC Audit Criteria Guidelines  
+99 H19.5  Other hazard related activity.  
+ The FSC Audit Criteria Guidelines  
+100 GLOSSARY OF COMMONLY USED TERMS  
+Competent  means that a person has been deemed to meet the combination 
+of licences, qualifications, training and instruction as defined by 
+the company or by legal requirements for an activity or works.  
+Documented process  means that there is a written process (in any format) included in 
+the WHS Management System that clearly describes the 
+requirements for the specific aspect, and may include the 
+purpose, what must be done and by whom, when and how it is to 
+be done, what tools, materials and documents are needed and  
+how the activity is controlled and recorded . 
+Formally trained  means a person who has undertaken formal training against a 
+specified training course or plan, with outcomes documented as 
+relevant to the activity or works . 
+Implementation  the completion of the requirements defined in the WHS 
+Management System and associated procedures, including 
+completion of any required tools, forms or documents.  
+Inducted  company specific instruction provided to a worker related to a 
+task, activity or pr ocess, with evidence of worker 
+acknowledgement of instruction provided . 
+Licenced  means that a person has been deemed to meet the defined 
+regulatory requirements for an activity or works.  
+Principal Contractor  means a company that has been allocated or contracted with 
+overall management or control of the construction works as per 
+the WHS Regulations . 
+Project Risk Assessment  means the conduct of hazard identification, risk assessment and 
+control processes (HIRAC) for the overall project in o rder to 
+‘manage risks’ by eliminating health and safety risks so far as is 
+reasonably practicable, and if it is not reasonably practicable to do 
+so, to minimise those risks so far as is reasonably practicable.  
+Qualified  means a person who holds a recognised degree, certificate or 
+professional standing relevant to the activity or works.  
+Record  means a form of evidence of account or actions completed, 
+documented in writing or other media that can be readily 
+understood.  
+Safe systems of work  means a set of processes  and procedures , including 
+implementation and monitoring  tools for the consistent 
+management of hazards across project sites. Must be within the 
+Principal Contractor’s system, be repeatable, and control risks 
+associated with identified hazards.  
+ 
+Senior manager  means a person responsible for controlling or administering a 
+significant part of the company or group of employees above the 
+project level management team . The FSC Audit Criteria Guidelines  
+101 System ensures  means there is a prompt or requirement within the Principal 
+Contractor’s system that ensures the required action or task is 
+completed and recorded consistently  across project sites . 
+ 
+Trained  worker who has been trained internally, consistent with company 
+defined requirements. Evide nce of specific content delivered or 
+communicated is required.  
+Verification of competency  means a method of documented evaluation of the skill level of a 
+person against defined competency standards in order to evaluate 
+the person's ability  to carry out the relevant activity or works . 
+ 
