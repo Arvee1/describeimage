@@ -125,7 +125,6 @@ if st.button('Identiy WHS Issues'):
     if uploaded_file:
         # If an image is uploaded, store it in session_state
         st.session_state.messages.append({"role": "user", "content": uploaded_file, "type": "image"})
-        st.image(message["content"])
 
     if prompt:
         st.session_state.messages.append({"role": "user", "content": prompt})
