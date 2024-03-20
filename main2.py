@@ -30,7 +30,7 @@ from langchain_core.tools import Tool
 
 @st.cache_resource
 def create_vector():
-    loader = TextLoader("model-whs-bill-23_november_2023.txt", encoding="utf8")
+    loader = TextLoader("FSC Audit Criteria Guidelines.txt", encoding="utf8")
     docs = loader.load()
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
     text_splitter = RecursiveCharacterTextSplitter(
