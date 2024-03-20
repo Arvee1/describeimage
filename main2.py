@@ -118,10 +118,10 @@ for message in st.session_state.messages:
             st.write(message["content"])
 
 # Text input for chat
-prompt = st.text_input("Type a message:")
-
+# prompt = st.text_input("Type a message:")
+prompt = "identify the work health and safety issues at this site."
 # Button to send the message/image
-if st.button('Send'):
+if st.button('Identiy WHS Issues'):
     if uploaded_file:
         # If an image is uploaded, store it in session_state
         st.session_state.messages.append({"role": "user", "content": uploaded_file, "type": "image"})
