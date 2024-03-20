@@ -30,7 +30,7 @@ from langchain_core.tools import Tool
 
 @st.cache_resource
 def create_vector():
-    loader = TextLoader("FSC Audit Criteria Guidelines.txt", encoding="utf8")
+    loader = TextLoader("model-whs-bill-23_november_2023.txt", encoding="utf8")
     docs = loader.load()
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
     text_splitter = RecursiveCharacterTextSplitter(
@@ -88,16 +88,19 @@ def generate_llava_response(prompt_input):
 
 # st.set_page_config(page_title="🦙💬 Llava 2 Chatbot")
 with (st.sidebar):
-    st.title('🦙💬 Llava Chatbot')
-    selected_model = st.sidebar.selectbox('Choose a llava model', ['llava-13b'], key='selected_model')
-    if selected_model == 'llava-13b':
-        llm = 'yorickvp/llava-13b:2facb4a474a0462c15041b78b1ad70952ea46b5ec6ad29583c0b29dbd4249591'
+    st.title('🦙💬 Wazzup!!! Upload Image to assess if it is safe.')
+    # selected_model = st.sidebar.selectbox('Choose a llava model', ['llava-13b'], key='selected_model')
+    # if selected_model == 'llava-13b':
+    llm = 'yorickvp/llava-13b:2facb4a474a0462c15041b78b1ad70952ea46b5ec6ad29583c0b29dbd4249591'
 
-    temperature = st.sidebar.slider('temperature', min_value=0.01, max_value=5.0, value=0.1, step=0.01)
-    top_p = st.sidebar.slider('top_p', min_value=0.01, max_value=1.0, value=0.9, step=0.01)
-    max_length = st.sidebar.slider('max_length', min_value=64, max_value=4096, value=512, step=8)
+    temperature = 0.01
+    top_p = 0.9
+    max_length = value=512
+    # temperature = st.sidebar.slider('temperature', min_value=0.01, max_value=5.0, value=0.1, step=0.01)
+    # top_p = st.sidebar.slider('top_p', min_value=0.01, max_value=1.0, value=0.9, step=0.01)
+    # max_length = st.sidebar.slider('max_length', min_value=64, max_value=4096, value=512, step=8)
 
-    st.markdown('📖 Learn how to build a llava chatbot [blog](#link-to-blog)!')
+    # st.markdown('📖 Learn how to build a llava chatbot [blog](#link-to-blog)!')
     uploaded_file = st.file_uploader("Upload an image", type=["jpg", "png", "jpeg"])
 
 st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
@@ -132,11 +135,10 @@ if st.button('Send'):
     for text in llava2_answer:
         result_string += text
 
-    result_string = ("Check the FSC Audit Criteria Guidelines for non conformance based on this "
-                     "text and identify the WHS AUDIT CRITERIA, HAZARD AUDIT CRITERIA and "
-                     "FOCUS POINT AUDIT CRITERIA relating to "
+    result_string = ("Check the Model Work Health and Safety Bill for non conformance based on this "
+                     "text and identify the Part, Division and "
+                     "Subdivision relating to "
                      "non conformance: ") + result_string
-    # st.write("Result String: " + result_string)
 
     chat_history = memory.buffer_as_messages
     response = agent_executor.invoke({
