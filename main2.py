@@ -132,7 +132,7 @@ if st.button('Send'):
     for text in llava2_answer:
         result_string += text
 
-    result_string = ("Check the model Work Health and Safety Bill for non conformance based on this "
+    result_string = ("Check the FSC Audit Criteria Guidelines for non conformance based on this "
                      "text and identify the Part number and Division number in the Bill relating to "
                      "non conformance: ") + result_string
     # st.write("Result String: " + result_string)
