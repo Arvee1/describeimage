@@ -88,7 +88,7 @@ def generate_llava_response(prompt_input):
 
 # st.set_page_config(page_title="🦙💬 Llava 2 Chatbot")
 with (st.sidebar):
-    st.title('🦙💬 Wazzup!!! Upload Image to assess if it is safe.')
+    st.title('🦙💬 Wazzup!!! Upload Image to assess if it is safe work site.')
     # selected_model = st.sidebar.selectbox('Choose a llava model', ['llava-13b'], key='selected_model')
     # if selected_model == 'llava-13b':
     llm = 'yorickvp/llava-13b:2facb4a474a0462c15041b78b1ad70952ea46b5ec6ad29583c0b29dbd4249591'
